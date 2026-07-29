@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trend Scan — Modern Makes</title>
+<style>
+  :root {
+    --accent: #FF5A1F;
+    --black: #1A1A1A;
+    --bg: #F7F6F3;
+    --surface: #FFFFFF;
+    --border: #E2E2E0;
+    --g1: #6B6B68;
+    --g2: #9A9A97;
+    --reddit: #FF4500;
+    --github: #6E5494;
+    --youtube: #FF0000;
+    --fd: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+    --fu: 'Barlow', -apple-system, 'Segoe UI', sans-serif;
+    --fm: 'JetBrains Mono', ui-monospace, 'Cascadia Code', Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --black: #F2F2F0;
+      --bg: #141414;
+      --surface: #1E1E1E;
+      --border: #333331;
+      --g1: #A0A09D;
+      --g2: #787875;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1.5rem 4rem;
+    background: var(--bg);
+    color: var(--black);
+    font-family: var(--fu);
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; }
+
+  header { border-bottom: 3px solid var(--black); padding-bottom: 1rem; margin-bottom: .75rem; }
+  .eyebrow {
+    font-family: var(--fm); font-size: .7rem; letter-spacing: .12em;
+    text-transform: uppercase; color: var(--accent); margin-bottom: .4rem;
+  }
+  h1 {
+    font-family: var(--fd); font-weight: 800; text-transform: uppercase;
+    font-size: clamp(2rem, 6vw, 3.25rem); line-height: .95; margin: 0; letter-spacing: -.01em;
+  }
+  .meta {
+    display: flex; flex-wrap: wrap; gap: 1.25rem;
+    font-family: var(--fm); font-size: .72rem; color: var(--g1); margin: .9rem 0 1.5rem;
+  }
+  .meta b { color: var(--black); font-weight: 500; }
+
+  section { margin-top: 2.5rem; }
+  section:first-of-type { margin-top: 0; }
+  h2 {
+    font-family: var(--fd); font-weight: 800; text-transform: uppercase;
+    font-size: clamp(1.3rem, 3vw, 1.75rem); line-height: 1; margin: 0 0 .25rem;
+    letter-spacing: -.01em;
+  }
+  .section-note { font-size: .82rem; color: var(--g1); margin: 0 0 1rem; max-width: 60ch; }
+
+  .banner {
+    border: 1px solid var(--border); background: var(--surface);
+    padding: .8rem 1rem; margin-bottom: 1.5rem; font-size: .85rem; color: var(--g1);
+    border-radius: 4px;
+  }
+  .banner strong { color: var(--black); font-weight: 600; }
+  .banner.err { border-color: var(--accent); }
+  .banner.err strong { color: var(--accent); }
+
+  .filters { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1rem; }
+  .filters button {
+    font-family: var(--fm); font-size: .7rem; letter-spacing: .06em; text-transform: uppercase;
+    padding: .45rem .85rem; border: 1px solid var(--border); background: var(--surface);
+    color: var(--g1); border-radius: 999px; cursor: pointer; transition: all .15s ease;
+  }
+  .filters button:hover { border-color: var(--g2); color: var(--black); }
+  .filters button[aria-pressed="true"] {
+    background: var(--black); color: var(--bg); border-color: var(--black);
+  }
+
+  .scroller { overflow-x: auto; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); }
+  table { width: 100%; border-collapse: collapse; min-width: 720px; }
+  thead th {
+    font-family: var(--fm); font-size: .65rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--g2); text-align: left; padding: .75rem 1rem; border-bottom: 1px solid var(--border);
+    white-space: nowrap; font-weight: 500;
+  }
+  tbody tr { border-bottom: 1px solid var(--border); }
+  tbody tr:last-child { border-bottom: 0; }
+  tbody tr:hover { background: color-mix(in srgb, var(--accent) 5%, transparent); }
+  td { padding: .8rem 1rem; vertical-align: top; font-size: .9rem; }
+
+  .rank { font-family: var(--fm); font-size: .8rem; color: var(--g2); width: 3rem; }
+  .topic a { color: var(--black); text-decoration: none; font-weight: 500; line-height: 1.35; display: block; }
+  .topic a:hover { color: var(--accent); text-decoration: underline; }
+  .sub { font-family: var(--fm); font-size: .68rem; color: var(--g2); margin-top: .3rem; }
+
+  .badge {
+    display: inline-block; font-family: var(--fm); font-size: .62rem; font-weight: 500;
+    letter-spacing: .08em; text-transform: uppercase; padding: .25rem .5rem;
+    border-radius: 3px; color: #fff; white-space: nowrap;
+  }
+  .badge.reddit { background: var(--reddit); }
+  .badge.github { background: var(--github); }
+  .badge.youtube { background: var(--youtube); }
+  .badge.manufacturer { background: var(--accent); }
+  .detail { font-family: var(--fm); font-size: .7rem; color: var(--g1); margin-top: .35rem; }
+
+  .score { width: 9rem; }
+  .score-n { font-family: var(--fm); font-size: .85rem; font-weight: 500; }
+  .bar { height: 3px; background: var(--border); border-radius: 2px; margin-top: .35rem; overflow: hidden; }
+  .bar span { display: block; height: 100%; background: var(--accent); border-radius: 2px; }
+  .basis { font-family: var(--fm); font-size: .6rem; color: var(--g2); margin-top: .3rem; text-transform: uppercase; letter-spacing: .06em; }
+
+  .thread-date { font-family: var(--fm); font-size: .78rem; color: var(--g1); white-space: nowrap; }
+
+  .empty { padding: 3rem 1rem; text-align: center; color: var(--g1); }
+  code {
+    font-family: var(--fm); font-size: .8em; background: color-mix(in srgb, var(--g2) 18%, transparent);
+    padding: .12em .4em; border-radius: 3px;
+  }
+  footer { margin-top: 2rem; font-family: var(--fm); font-size: .68rem; color: var(--g2); line-height: 1.7; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Modern Makes · Research</div>
+    <h1>Trend Scan</h1>
+  </header>
+
+  <div class="meta" id="meta"></div>
+  <div id="banner"></div>
+
+  <section>
+    <h2>Ranked Signals</h2>
+    <p class="section-note">GitHub and YouTube, scored on engagement against a 30-day baseline.</p>
+    <div class="filters" id="filters"></div>
+    <div class="scroller">
+      <table>
+        <thead>
+          <tr>
+            <th>#</th><th>Topic</th><th>Source</th><th>Score</th><th>Signal</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="threads-section">
+    <h2>Recent Community Threads</h2>
+    <p class="section-note">Reddit RSS — no score or comment counts are published in the feed, so these are listed for context, not ranked.</p>
+    <div class="scroller">
+      <table>
+        <thead>
+          <tr>
+            <th>Thread</th><th>Subreddit</th><th>Posted</th>
+          </tr>
+        </thead>
+        <tbody id="threads"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    Generated by <code>toolbox/score_signals.py</code> — refresh the data with
+    <code>python toolbox/fetch_reddit.py &amp;&amp; python toolbox/fetch_github.py &amp;&amp; python toolbox/fetch_youtube.py &amp;&amp; python toolbox/fetch_manufacturer_news.py &amp;&amp; python toolbox/score_signals.py</code>,
+    then reload this page. Runs automatically once a day via GitHub Actions — see <code>.github/workflows/trend-scan.yml</code>.
+  </footer>
+</div>
+
+<script>
+const SCORED_SOURCES = ['github', 'youtube', 'manufacturer'];
+let DATA = null;
+let filter = 'all';
+
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => (
+  { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
+));
+
+/* Load order matters. fetch() only works when this page is served over http://,
+   and Chrome blocks it against file:// (opaque origin). score_signals.py writes
+   data/trend-signals.js alongside the .json for exactly that case, so the script
+   fallback is what actually runs on a double-click open. */
+function load() {
+  return fetch('data/trend-signals.json', { cache: 'no-store' })
+    .then(r => r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status)))
+    .catch(() => new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = 'data/trend-signals.js';
+      s.onload = () => window.TREND_SIGNALS
+        ? resolve(window.TREND_SIGNALS)
+        : reject(new Error('trend-signals.js loaded but set no data'));
+      s.onerror = () => reject(new Error('no-data'));
+      document.head.appendChild(s);
+    }));
+}
+
+function renderMeta() {
+  const d = DATA;
+  const modeLabel = {
+    'baseline-spike': 'spike vs 30-day baseline',
+    'raw-engagement': 'raw engagement (no baseline yet)',
+    'mixed': 'mixed — spike where history allows'
+  }[d.mode] || d.mode;
+  document.getElementById('meta').innerHTML = `
+    <div>Scan date <b>${esc(d.date)}</b></div>
+    <div>Signals <b>${d.signal_count}</b></div>
+    <div>Scoring <b>${esc(modeLabel)}</b></div>
+    <div>History <b>${d.history_days_available} day${d.history_days_available === 1 ? '' : 's'}</b></div>
+  `;
+
+  const present = new Set(d.signals.map(s => s.source));
+  const missing = SCORED_SOURCES.filter(s => !present.has(s));
+  if (!(d.recent_threads || []).length) missing.push('reddit');
+  const notes = [];
+  if (d.signal_count && d.mode !== 'baseline-spike') {
+    notes.push('Not enough history for spike detection yet, so ranked signals use <strong>raw engagement normalised within each source</strong>. Keep running the fetchers daily — spike scoring engages at ~6 days.');
+  }
+  if (missing.length) {
+    notes.push(`No data for <strong>${missing.join(', ')}</strong> in this scan. Check the fetcher output for that source.`);
+  }
+  document.getElementById('banner').innerHTML = notes.length
+    ? `<div class="banner">${notes.join('<br>')}</div>` : '';
+}
+
+function renderFilters() {
+  const counts = { all: DATA.signals.length };
+  for (const s of DATA.signals) counts[s.source] = (counts[s.source] || 0) + 1;
+  const keys = ['all', ...SCORED_SOURCES.filter(s => counts[s])];
+  document.getElementById('filters').innerHTML = keys.map(k =>
+    `<button data-f="${k}" aria-pressed="${k === filter}">${k} (${counts[k] || 0})</button>`
+  ).join('');
+  document.querySelectorAll('#filters button').forEach(b =>
+    b.onclick = () => { filter = b.dataset.f; renderFilters(); renderRows(); }
+  );
+}
+
+function renderThreads() {
+  const threads = DATA.recent_threads || [];
+  const tbody = document.getElementById('threads');
+  if (!threads.length) {
+    tbody.innerHTML = `<tr><td colspan="3" class="empty">No community threads in this scan.</td></tr>`;
+    return;
+  }
+  tbody.innerHTML = threads.map(t => `
+    <tr>
+      <td class="topic">
+        ${t.link ? `<a href="${esc(t.link)}" target="_blank" rel="noopener">${esc(t.title)}</a>`
+                 : `<span>${esc(t.title)}</span>`}
+        ${t.author ? `<div class="sub">${esc(t.author)}</div>` : ''}
+      </td>
+      <td><span class="badge reddit">r/${esc(t.subreddit)}</span></td>
+      <td class="thread-date">${esc(t.date || '—')}</td>
+    </tr>
+  `).join('');
+}
+
+function renderRows() {
+  const rows = DATA.signals.filter(s => filter === 'all' || s.source === filter);
+  const tbody = document.getElementById('rows');
+  if (!rows.length) {
+    tbody.innerHTML = `<tr><td colspan="5" class="empty">No ranked signals in this scan.</td></tr>`;
+    return;
+  }
+  tbody.innerHTML = rows.map(s => `
+    <tr>
+      <td class="rank">${s.rank}</td>
+      <td class="topic">
+        ${s.link ? `<a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.topic)}</a>`
+                 : `<span>${esc(s.topic)}</span>`}
+        <div class="sub">${esc(s.metric || '')}</div>
+      </td>
+      <td>
+        <span class="badge ${esc(s.source)}">${esc(s.source)}</span>
+        <div class="detail">${esc(s.category || s.detail || '')}</div>
+      </td>
+      <td class="score">
+        <div class="score-n">${s.score.toFixed(1)}</div>
+        <div class="bar"><span style="width:${Math.max(0, Math.min(100, s.score))}%"></span></div>
+        <div class="basis">${esc(s.basis || 'raw')}</div>
+      </td>
+      <td>${s.spike === null || s.spike === undefined
+            ? '<span style="color:var(--g2)">—</span>'
+            : `<span class="score-n">${s.spike > 0 ? '+' : ''}${s.spike}σ</span>`}</td>
+    </tr>
+  `).join('');
+}
+
+load().then(data => {
+  DATA = data;
+  renderMeta();
+  renderFilters();
+  renderRows();
+  renderThreads();
+}).catch(err => {
+  document.getElementById('banner').innerHTML = `
+    <div class="banner err">
+      <strong>No data loaded.</strong> ${err.message === 'no-data'
+        ? 'Run the fetchers and then <code>python score_signals.py</code> to generate <code>data/trend-signals.json</code>.'
+        : esc(err.message)}
+    </div>`;
+  document.getElementById('rows').innerHTML =
+    `<tr><td colspan="5" class="empty">Nothing to show yet.</td></tr>`;
+  document.getElementById('threads').innerHTML =
+    `<tr><td colspan="3" class="empty">Nothing to show yet.</td></tr>`;
+});
+</script>
+</body>
+</html>

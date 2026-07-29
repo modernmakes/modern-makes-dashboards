@@ -1,0 +1,46 @@
+name: Trend Scan
+
+on:
+  schedule:
+    # 06:17 UTC daily — off the top-of-hour rush on GitHub's scheduler.
+    - cron: "17 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run fetchers + scorer
+        working-directory: trend-scan/toolbox
+        run: |
+          # GitHub Actions runs steps with `set -e` by default, which would abort
+          # on the first failing fetcher despite the semicolons. Disable that here
+          # so one dead source doesn't kill the others — score_signals.py's own
+          # exit code (not the fetchers') is what determines this step's outcome.
+          set +e
+          python fetch_reddit.py ; python fetch_github.py ; python fetch_youtube.py ; python fetch_manufacturer_news.py
+          python score_signals.py
+          exit $?
+
+      - name: Commit + push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trend-scan/data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "trend-scan: daily data refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi

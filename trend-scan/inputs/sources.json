@@ -1,0 +1,44 @@
+{
+  "subreddits": [
+    "3Dprinting",
+    "VORONDesign",
+    "BambuLab",
+    "functionalprint"
+  ],
+  "printer_design_repos": [
+    "VoronDesign/Voron-2",
+    "Rat-Rig/V-core-3"
+  ],
+  "firmware_repos": [
+    "Klipper3d/klipper",
+    "KalicoCrew/kalico",
+    "Duet3D/RepRapFirmware"
+  ],
+  "slicer_repos": [
+    "OrcaSlicer/OrcaSlicer",
+    "prusa3d/PrusaSlicer",
+    "bambulab/BambuStudio",
+    "supermerill/SuperSlicer",
+    "Ultimaker/Cura"
+  ],
+  "hardware_repos": [
+    "beacon3d/beacon_klipper"
+  ],
+  "manufacturer_feeds": {
+    "Bambu Lab": "https://blog.bambulab.com/rss/",
+    "Prusa Research": "https://blog.prusa3d.com/feed/",
+    "BigTreeTech": "https://bigtree-tech.com/blogs/news.atom",
+    "E3D": "https://e3d-online.com/blogs/news.atom",
+    "Slice Engineering": "https://www.sliceengineering.com/blogs/news.atom",
+    "Bondtech": "https://www.bondtech.se/feed/",
+    "Raspberry Pi": {
+      "url": "https://www.raspberrypi.com/news/feed/",
+      "keywords": ["raspberry pi 5", "raspberry pi 500", "compute module", "pi zero 2", "pico 2"]
+    },
+    "RatRig / RatOS": "https://os.ratrig.com/blog/rss.xml"
+  },
+  "youtube_channels": {
+    "CNC Kitchen": "UCiczXOhGpvoQGhOL16EZiTg",
+    "Teaching Tech": "UCbgBDBrwsikmtoLqtpc59Bw"
+  }
+}
