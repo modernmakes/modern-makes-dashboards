@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "fetched_at": "2026-07-29T06:05:49.263560+00:00",
+  "fetched_at": "2026-07-29T09:12:06.275972+00:00",
   "date": "2026-07-29",
   "items": [
     {
@@ -50,7 +50,7 @@
       "name": "klipper",
       "description": "Klipper is a 3d-printer firmware",
       "stars": 11777,
-      "forks": 5920,
+      "forks": 5919,
       "watchers": 374,
       "open_issues_count": 227,
       "pushed_at": "2026-07-28T20:54:16Z",
@@ -97,11 +97,11 @@
       "category": "Slicer",
       "name": "OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "stars": 15259,
-      "forks": 2816,
+      "stars": 15261,
+      "forks": 2818,
       "watchers": 158,
-      "open_issues_count": 2455,
-      "pushed_at": "2026-07-28T21:45:40Z",
+      "open_issues_count": 2459,
+      "pushed_at": "2026-07-29T08:52:19Z",
       "url": "https://github.com/OrcaSlicer/OrcaSlicer",
       "latest_release": {
         "tag": "v2.4.2",
@@ -117,10 +117,10 @@
       "category": "Slicer",
       "name": "PrusaSlicer",
       "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "stars": 9200,
+      "stars": 9202,
       "forks": 2294,
       "watchers": 263,
-      "open_issues_count": 5678,
+      "open_issues_count": 5679,
       "pushed_at": "2026-06-25T20:49:52Z",
       "url": "https://github.com/prusa3d/PrusaSlicer",
       "latest_release": {
@@ -137,10 +137,10 @@
       "category": "Slicer",
       "name": "BambuStudio",
       "description": "PC Software for BambuLab and other 3D printers",
-      "stars": 4838,
+      "stars": 4839,
       "forks": 900,
       "watchers": 74,
-      "open_issues_count": 7454,
+      "open_issues_count": 7448,
       "pushed_at": "2026-07-24T12:49:00Z",
       "url": "https://github.com/bambulab/BambuStudio",
       "latest_release": {

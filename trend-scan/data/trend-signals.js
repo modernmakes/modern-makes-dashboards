@@ -1,10 +1,10 @@
 window.TREND_SIGNALS = {
-  "generated_at": "2026-07-29T06:06:04.260335+00:00",
+  "generated_at": "2026-07-29T09:12:18.571822+00:00",
   "date": "2026-07-29",
-  "mode": "raw-engagement",
+  "mode": "mixed",
   "baseline_days": 30,
   "history_days_available": 3,
-  "signal_count": 13,
+  "signal_count": 15,
   "signals": [
     {
       "key": "github-orcaslicer-v2.4.2",
@@ -15,8 +15,8 @@ window.TREND_SIGNALS = {
       "score": 100.0,
       "spike": null,
       "basis": "raw",
-      "engagement": 15259,
-      "metric": "15259 stars · 2455 open issues/PRs · v2.4.2 · +10.8 stars/day",
+      "engagement": 15261,
+      "metric": "15261 stars · 2459 open issues/PRs · v2.4.2 · +11.0 stars/day",
       "link": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.4.2",
       "date": "2026-07-29",
       "rank": 1
@@ -45,8 +45,8 @@ window.TREND_SIGNALS = {
       "score": 60.3,
       "spike": null,
       "basis": "raw",
-      "engagement": 9200,
-      "metric": "9200 stars · 5678 open issues/PRs · version_2.9.6 · +1.8 stars/day",
+      "engagement": 9202,
+      "metric": "9202 stars · 5679 open issues/PRs · version_2.9.6 · +2.0 stars/day",
       "link": "https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.9.6",
       "date": "2026-07-29",
       "rank": 3
@@ -82,19 +82,47 @@ window.TREND_SIGNALS = {
       "rank": 5
     },
     {
+      "key": "youtube-Y_vkCFwDIBY",
+      "topic": "Half a Million Views Later… BumpMesh Is Way Better",
+      "source": "youtube",
+      "detail": "CNC Kitchen",
+      "score": 42.2,
+      "spike": -0.65,
+      "basis": "spike",
+      "engagement": 190262,
+      "metric": "190,262 views · 10,324 likes · 17d old",
+      "link": "https://www.youtube.com/watch?v=Y_vkCFwDIBY",
+      "date": "2026-07-29",
+      "rank": 6
+    },
+    {
       "key": "manufacturer-bambu-lab-when-venezuela-needed-help-the-makers-moved-first",
       "topic": "When Venezuela needed help, the makers moved first",
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "Mobilizing global 3D printing community for Venezuela Earthquake Relief Initiative",
-      "score": 43.5,
+      "score": 39.1,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Bambu Lab · published 2026-07-08 · 20d ago",
+      "metric": "Bambu Lab · published 2026-07-08 · 21d ago",
       "link": "https://blog.bambulab.com/when-venezuela-needed-help-the-makers-moved-first/",
       "date": "2026-07-29",
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "key": "youtube-sHLGrTBLxLg",
+      "topic": "I Automated Pressure Advance Using a Bed-Leveling Sensor",
+      "source": "youtube",
+      "detail": "CNC Kitchen",
+      "score": 37.6,
+      "spike": -1.03,
+      "basis": "spike",
+      "engagement": 141139,
+      "metric": "141,139 views · 6,565 likes · 10d old",
+      "link": "https://www.youtube.com/watch?v=sHLGrTBLxLg",
+      "date": "2026-07-29",
+      "rank": 8
     },
     {
       "key": "github-bambustudio-v02.07.01.62",
@@ -105,11 +133,11 @@ window.TREND_SIGNALS = {
       "score": 31.7,
       "spike": null,
       "basis": "raw",
-      "engagement": 4838,
-      "metric": "4838 stars · 7454 open issues/PRs · v02.07.01.62 · +3.6 stars/day",
+      "engagement": 4839,
+      "metric": "4839 stars · 7448 open issues/PRs · v02.07.01.62 · +3.7 stars/day",
       "link": "https://github.com/bambulab/BambuStudio/releases/tag/v02.07.01.62",
       "date": "2026-07-29",
-      "rank": 7
+      "rank": 9
     },
     {
       "key": "github-voron-2-v2.4r2",
@@ -124,7 +152,7 @@ window.TREND_SIGNALS = {
       "metric": "4467 stars · 36 open issues/PRs · V2.4r2 · +0.8 stars/day",
       "link": "https://github.com/VoronDesign/Voron-2/releases/tag/V2.4r2",
       "date": "2026-07-29",
-      "rank": 8
+      "rank": 10
     },
     {
       "key": "github-superslicer-2.5.59.13",
@@ -139,7 +167,7 @@ window.TREND_SIGNALS = {
       "metric": "4317 stars · 1933 open issues/PRs · 2.5.59.13 · +0.3 stars/day",
       "link": "https://github.com/supermerill/SuperSlicer/releases/tag/2.5.59.13",
       "date": "2026-07-29",
-      "rank": 9
+      "rank": 11
     },
     {
       "key": "manufacturer-prusa-research-state-of-indx-july-2026-update-founders-edition-shipping-wha",
@@ -154,7 +182,7 @@ window.TREND_SIGNALS = {
       "metric": "Prusa Research · published 2026-07-03 · 25d ago",
       "link": "https://blog.prusa3d.com/indx_july_2026_update_137377/",
       "date": "2026-07-29",
-      "rank": 10
+      "rank": 12
     },
     {
       "key": "github-reprapfirmware-3.6.3",
@@ -169,7 +197,7 @@ window.TREND_SIGNALS = {
       "metric": "1043 stars · 250 open issues/PRs · 3.6.3 · +0.2 stars/day",
       "link": "https://github.com/Duet3D/RepRapFirmware/releases/tag/3.6.3",
       "date": "2026-07-29",
-      "rank": 11
+      "rank": 13
     },
     {
       "key": "manufacturer-prusa-research-flash-summer-deal-2026-20-off-mk4s-reduced-core-one-shipping",
@@ -184,7 +212,7 @@ window.TREND_SIGNALS = {
       "metric": "Prusa Research · published 2026-06-29 · 29d ago",
       "link": "https://blog.prusa3d.com/flash-summer-deal-2026-20-off-mk4s-reduced-core-one-shipping_137330/",
       "date": "2026-07-29",
-      "rank": 12
+      "rank": 14
     },
     {
       "key": "github-v-core-3-1.0.4",
@@ -199,10 +227,31 @@ window.TREND_SIGNALS = {
       "metric": "355 stars · 29 open issues/PRs · 1.0.4 · +0.0 stars/day",
       "link": "https://github.com/Rat-Rig/V-core-3/releases/tag/1.0.4",
       "date": "2026-07-29",
-      "rank": 13
+      "rank": 15
     }
   ],
   "recent_threads": [
+    {
+      "title": "3D Printing from PET Bottles: How I Used to Do It",
+      "subreddit": "3Dprinting",
+      "author": "/u/Andurin77",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9pmbm/3d_printing_from_pet_bottles_how_i_used_to_do_it/",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "PETG-CF",
+      "subreddit": "3Dprinting",
+      "author": "/u/Sea-Statistician2776",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9pfwr/petgcf/",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Ok but how?",
+      "subreddit": "3Dprinting",
+      "author": "/u/Alarmed_Leg9757",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9p8mo/ok_but_how/",
+      "date": "2026-07-29"
+    },
     {
       "title": "3D printed spunchbob squarepants sponge holder",
       "subreddit": "3Dprinting",
@@ -274,13 +323,6 @@ window.TREND_SIGNALS = {
       "date": "2026-07-28"
     },
     {
-      "title": "Win on the 11th Revision",
-      "subreddit": "3Dprinting",
-      "author": "/u/Erwos42",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9ehmo/win_on_the_11th_revision/",
-      "date": "2026-07-28"
-    },
-    {
       "title": "More experience with a new filament – Eryone ASA-GF White quick review",
       "subreddit": "3Dprinting",
       "author": "/u/Sea-Power7925",
@@ -316,24 +358,10 @@ window.TREND_SIGNALS = {
       "date": "2026-07-28"
     },
     {
-      "title": "TPU buildplate for PLA",
-      "subreddit": "3Dprinting",
-      "author": "/u/Pawel_likes_guns",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v91ynz/tpu_buildplate_for_pla/",
-      "date": "2026-07-28"
-    },
-    {
       "title": "Robot legs",
       "subreddit": "3Dprinting",
       "author": "/u/Fade__21",
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v8yu3e/robot_legs/",
-      "date": "2026-07-28"
-    },
-    {
-      "title": "Turned a 35-year-old plastic car part into an editable CAD model",
-      "subreddit": "3Dprinting",
-      "author": "/u/Jaded_Street_5756",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v8wlrl/turned_a_35yearold_plastic_car_part_into_an/",
       "date": "2026-07-28"
     },
     {

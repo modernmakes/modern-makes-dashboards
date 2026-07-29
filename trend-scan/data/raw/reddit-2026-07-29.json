@@ -1,6 +1,6 @@
 {
   "source": "reddit",
-  "fetched_at": "2026-07-29T06:05:36.729636+00:00",
+  "fetched_at": "2026-07-29T09:11:53.620236+00:00",
   "date": "2026-07-29",
   "items": [
     {
@@ -67,6 +67,15 @@
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v8r3ou/does_this_pet_bottleto3dprinter_filament_project/"
     },
     {
+      "id": "t3_1v9pmbm",
+      "subreddit": "3Dprinting",
+      "title": "3D Printing from PET Bottles: How I Used to Do It",
+      "author": "/u/Andurin77",
+      "published": "2026-07-29T08:01:38+00:00",
+      "updated": "2026-07-29T08:01:38+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9pmbm/3d_printing_from_pet_bottles_how_i_used_to_do_it/"
+    },
+    {
       "id": "t3_1v99vjs",
       "subreddit": "3Dprinting",
       "title": "WIP 3D Printed Blade Runner Blasters",
@@ -94,15 +103,6 @@
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v9fqw5/will_tpu_be_elastic_enough_to_handle_this_tension/"
     },
     {
-      "id": "t3_1v8uupq",
-      "subreddit": "3Dprinting",
-      "title": "Kinda impressed",
-      "author": "/u/Weekly-Smile6368",
-      "published": "2026-07-28T10:51:13+00:00",
-      "updated": "2026-07-28T10:51:13+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v8uupq/kinda_impressed/"
-    },
-    {
       "id": "t3_1v9la7i",
       "subreddit": "3Dprinting",
       "title": "Tried to mimic the official 8Bit Mario Amiibos in 3D",
@@ -110,6 +110,33 @@
       "published": "2026-07-29T04:12:11+00:00",
       "updated": "2026-07-29T04:12:11+00:00",
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v9la7i/tried_to_mimic_the_official_8bit_mario_amiibos_in/"
+    },
+    {
+      "id": "t3_1v9gn38",
+      "subreddit": "3Dprinting",
+      "title": "I designed a modular 3D-printable cable raceway with snap-on covers",
+      "author": "/u/__timbits",
+      "published": "2026-07-29T00:40:58+00:00",
+      "updated": "2026-07-29T00:40:58+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9gn38/i_designed_a_modular_3dprintable_cable_raceway/"
+    },
+    {
+      "id": "t3_1v9lbo6",
+      "subreddit": "3Dprinting",
+      "title": "Adam Savage and i Fix It talked about the 3D Printing bill today",
+      "author": "/u/gra8na8",
+      "published": "2026-07-29T04:14:13+00:00",
+      "updated": "2026-07-29T04:14:13+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9lbo6/adam_savage_and_i_fix_it_talked_about_the_3d/"
+    },
+    {
+      "id": "t3_1v8uupq",
+      "subreddit": "3Dprinting",
+      "title": "Kinda impressed",
+      "author": "/u/Weekly-Smile6368",
+      "published": "2026-07-28T10:51:13+00:00",
+      "updated": "2026-07-28T10:51:13+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v8uupq/kinda_impressed/"
     },
     {
       "id": "t3_1v92hj8",
@@ -121,6 +148,24 @@
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v92hj8/most_boring_but_practical_design_i_have_made_so/"
     },
     {
+      "id": "t3_1v9nap0",
+      "subreddit": "3Dprinting",
+      "title": "3D printed spunchbob squarepants sponge holder",
+      "author": "/u/MarthuxIDK",
+      "published": "2026-07-29T05:54:25+00:00",
+      "updated": "2026-07-29T05:54:25+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9nap0/3d_printed_spunchbob_squarepants_sponge_holder/"
+    },
+    {
+      "id": "t3_1v9kaa2",
+      "subreddit": "3Dprinting",
+      "title": "3d puzzle",
+      "author": "/u/3dtoycore",
+      "published": "2026-07-29T03:24:24+00:00",
+      "updated": "2026-07-29T03:24:24+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9kaa2/3d_puzzle/"
+    },
+    {
       "id": "t3_1v9d9zp",
       "subreddit": "3Dprinting",
       "title": "More experience with a new filament – Eryone ASA-GF White quick review",
@@ -130,13 +175,13 @@
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v9d9zp/more_experience_with_a_new_filament_eryone_asagf/"
     },
     {
-      "id": "t3_1v9gn38",
+      "id": "t3_1v9p8mo",
       "subreddit": "3Dprinting",
-      "title": "I designed a modular 3D-printable cable raceway with snap-on covers",
-      "author": "/u/__timbits",
-      "published": "2026-07-29T00:40:58+00:00",
-      "updated": "2026-07-29T00:40:58+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9gn38/i_designed_a_modular_3dprintable_cable_raceway/"
+      "title": "Ok but how?",
+      "author": "/u/Alarmed_Leg9757",
+      "published": "2026-07-29T07:40:09+00:00",
+      "updated": "2026-07-29T07:40:09+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9p8mo/ok_but_how/"
     },
     {
       "id": "t3_1v8oxvr",
@@ -157,6 +202,15 @@
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v8tde2/got_inspired_dragon_lamp/"
     },
     {
+      "id": "t3_1v9pfwr",
+      "subreddit": "3Dprinting",
+      "title": "PETG-CF",
+      "author": "/u/Sea-Statistician2776",
+      "published": "2026-07-29T07:51:42+00:00",
+      "updated": "2026-07-29T07:51:42+00:00",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9pfwr/petgcf/"
+    },
+    {
       "id": "t3_1v8yu3e",
       "subreddit": "3Dprinting",
       "title": "Robot legs",
@@ -173,60 +227,6 @@
       "published": "2026-07-28T23:26:10+00:00",
       "updated": "2026-07-28T23:26:10+00:00",
       "link": "https://www.reddit.com/r/3Dprinting/comments/1v9eu3w/what_do_you_think_of_my_custom_corexy/"
-    },
-    {
-      "id": "t3_1v9lbo6",
-      "subreddit": "3Dprinting",
-      "title": "Adam Savage and i Fix It talked about the 3D Printing bill today",
-      "author": "/u/gra8na8",
-      "published": "2026-07-29T04:14:13+00:00",
-      "updated": "2026-07-29T04:14:13+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9lbo6/adam_savage_and_i_fix_it_talked_about_the_3d/"
-    },
-    {
-      "id": "t3_1v91ynz",
-      "subreddit": "3Dprinting",
-      "title": "TPU buildplate for PLA",
-      "author": "/u/Pawel_likes_guns",
-      "published": "2026-07-28T15:35:26+00:00",
-      "updated": "2026-07-28T15:35:26+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v91ynz/tpu_buildplate_for_pla/"
-    },
-    {
-      "id": "t3_1v9kaa2",
-      "subreddit": "3Dprinting",
-      "title": "3d puzzle",
-      "author": "/u/3dtoycore",
-      "published": "2026-07-29T03:24:24+00:00",
-      "updated": "2026-07-29T03:24:24+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9kaa2/3d_puzzle/"
-    },
-    {
-      "id": "t3_1v9nap0",
-      "subreddit": "3Dprinting",
-      "title": "3D printed spunchbob squarepants sponge holder",
-      "author": "/u/MarthuxIDK",
-      "published": "2026-07-29T05:54:25+00:00",
-      "updated": "2026-07-29T05:54:25+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9nap0/3d_printed_spunchbob_squarepants_sponge_holder/"
-    },
-    {
-      "id": "t3_1v8wlrl",
-      "subreddit": "3Dprinting",
-      "title": "Turned a 35-year-old plastic car part into an editable CAD model",
-      "author": "/u/Jaded_Street_5756",
-      "published": "2026-07-28T12:08:13+00:00",
-      "updated": "2026-07-28T12:08:13+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v8wlrl/turned_a_35yearold_plastic_car_part_into_an/"
-    },
-    {
-      "id": "t3_1v9ehmo",
-      "subreddit": "3Dprinting",
-      "title": "Win on the 11th Revision",
-      "author": "/u/Erwos42",
-      "published": "2026-07-28T23:12:14+00:00",
-      "updated": "2026-07-28T23:12:14+00:00",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1v9ehmo/win_on_the_11th_revision/"
     }
   ]
 }
