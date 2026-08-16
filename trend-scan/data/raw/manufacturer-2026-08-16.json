@@ -1,0 +1,1186 @@
+{
+  "source": "manufacturer",
+  "fetched_at": "2026-08-16T07:01:38.053500+00:00",
+  "date": "2026-08-16",
+  "items": [
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a50db1dcbd31d0001d47223",
+      "title": "“Let’s Make It”: Bambu Lab and Insta360 Launch Luna Ultra Design Challenge on MakerWorld",
+      "link": "https://blog.bambulab.com/lets-make-it-bambu-lab-and-insta360-launch-luna-ultra-design-challenge-on-makerworld/",
+      "published": "2026-07-10T12:23:33+00:00",
+      "published_raw": "Fri, 10 Jul 2026 12:23:33 GMT",
+      "summary": "Opening up camera hardware customization for the first time, this collaboration gives the maker community official Luna Ultra design files to let their imaginations run wild and compete for the latest…"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a4c9f7c65b3c2000140bc09",
+      "title": "When Venezuela needed help, the makers moved first",
+      "link": "https://blog.bambulab.com/when-venezuela-needed-help-the-makers-moved-first/",
+      "published": "2026-07-08T06:16:54+00:00",
+      "published_raw": "Wed, 08 Jul 2026 06:16:54 GMT",
+      "summary": "Mobilizing global 3D printing community for Venezuela Earthquake Relief Initiative"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a2effdcae06d200012741a1",
+      "title": "Introducing Bambu Lab PLA Pure: a filament made for printing where you live",
+      "link": "https://blog.bambulab.com/introducing-bambu-lab-pla-pure-a-filament-made-for-printing-where-you-live/",
+      "published": "2026-06-16T04:41:13+00:00",
+      "published_raw": "Tue, 16 Jun 2026 04:41:13 GMT",
+      "summary": "PLA Pure is a filament engineered for cleaner, safer home 3D printing, with every ingredient certified compliant with EU 10/2011 - the European regulation governing plastics intended for food contact"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a29bf22d4eb7d000191132c",
+      "title": "Koobz story - scaling on-demand footwear manufacturing through 3D printing",
+      "link": "https://blog.bambulab.com/koobz-story-scaling-on-demand-footwear-manufacturing-through-3d-printing/",
+      "published": "2026-06-11T06:04:47+00:00",
+      "published_raw": "Thu, 11 Jun 2026 06:04:47 GMT",
+      "summary": "By pairing scalable 3D printing with a fully digital manufacturing workflow, Koobz is demonstrating how footwear production can move faster, stay closer to home, and adapt to demand without the constr…"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a1fdf268cb4170001611e75",
+      "title": "VFX Artist by day. Maker by night.",
+      "link": "https://blog.bambulab.com/vfx-artist-by-day-maker-by-night/",
+      "published": "2026-06-08T06:19:51+00:00",
+      "published_raw": "Mon, 08 Jun 2026 06:19:51 GMT",
+      "summary": "Daniel Mueri has been making a living as VFX Artist for Film & TV for over 15 years. MakerWorld found him on its own."
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a1c97feb17a80000198b304",
+      "title": "Bambu Lab A2L - Creative Playground. Extra Large.",
+      "link": "https://blog.bambulab.com/bambu-lab-a2l-creative-playground-extra-large/",
+      "published": "2026-06-01T14:00:00+00:00",
+      "published_raw": "Mon, 01 Jun 2026 14:00:00 GMT",
+      "summary": "Bambu Lab expands the A Series with a large-format machine built for ambitious, uncompromising creative projects"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a156f54e6d77500018c7ac3",
+      "title": "How One Kid Turned a 3D Printer Into a Family Business: The Story of LittlePrintyCo",
+      "link": "https://blog.bambulab.com/how-one-kid-turned-a-3d-printer-into-a-family-business-the-story-of-littleprintyco/",
+      "published": "2026-05-27T08:42:35+00:00",
+      "published_raw": "Wed, 27 May 2026 08:42:35 GMT",
+      "summary": "She Discovered 3D Printing and Brought Her Whole Family Along for the Ride"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "6a00d2692b0b960001a19315",
+      "title": "Bambu Lab A1 Combo wins the Parents’ Award 2026",
+      "link": "https://blog.bambulab.com/bambu-lab-a1-combo-wins-the-parents-award-2026/",
+      "published": "2026-05-12T06:07:42+00:00",
+      "published_raw": "Tue, 12 May 2026 06:07:42 GMT",
+      "summary": "Endorsed by Experts, Loved by Children"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "69fc50762b0b960001a192c9",
+      "title": "Setting the record straight on Cloud Access and Community",
+      "link": "https://blog.bambulab.com/setting-the-record-straight-on-cloud-access-and-community/",
+      "published": "2026-05-07T10:17:56+00:00",
+      "published_raw": "Thu, 07 May 2026 10:17:56 GMT",
+      "summary": "We support open source. We also need to protect the cloud infrastructure people depend on."
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "69e51eb3b525a5000164a2b7",
+      "title": "How a University drives regional adoption of 3D printing",
+      "link": "https://blog.bambulab.com/how-a-university-drives-regional-adoption-of-3d-printing/",
+      "published": "2026-04-22T10:25:12+00:00",
+      "published_raw": "Wed, 22 Apr 2026 10:25:12 GMT",
+      "summary": "PrintCity at Manchester Metropolitan University"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "69e52c50b525a5000164a341",
+      "title": "How Kit Crafters turned toy design into a living",
+      "link": "https://blog.bambulab.com/how-kit-crafters-turned-toy-design-into-a-living/",
+      "published": "2026-04-21T05:36:32+00:00",
+      "published_raw": "Tue, 21 Apr 2026 05:36:32 GMT",
+      "summary": "A technical writer who never planned to become a designer now has nearly 200 models downloaded hundreds of thousands of times"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "69d6ac6db027d100015b483d",
+      "title": "From prototype to ocean-ready system",
+      "link": "https://blog.bambulab.com/from-prototype-to-ocean-ready-system/",
+      "published": "2026-04-20T09:55:09+00:00",
+      "published_raw": "Mon, 20 Apr 2026 09:55:09 GMT",
+      "summary": "WHASER proved itself in Iceland, then evolved into a reliable tool for global marine research"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "69dde1ffb027d100015b48b9",
+      "title": "Xcellence made simple - Bambu Lab presents the X2D",
+      "link": "https://blog.bambulab.com/xcellence-made-simple-bambu-lab-presents-the-x2d/",
+      "published": "2026-04-14T14:03:12+00:00",
+      "published_raw": "Tue, 14 Apr 2026 14:03:12 GMT",
+      "summary": "No more compromises with supports"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "69de10b6b027d100015b4954",
+      "title": "Two extruders, one purpose: what is X2D Direct Drive Extrusion and Auxiliary Extrusion?",
+      "link": "https://blog.bambulab.com/two-extruders-one-purpose-what-is-x2d-direct-drive-extrusion-and-auxiliary-extrusion/",
+      "published": "2026-04-14T14:01:01+00:00",
+      "published_raw": "Tue, 14 Apr 2026 14:01:01 GMT",
+      "summary": "Two heads as one sofisticated printing system"
+    },
+    {
+      "manufacturer": "Bambu Lab",
+      "id": "69de1dd2b027d100015b499b",
+      "title": "The Bambu Experience - an ecosystem that redefines 3D printing",
+      "link": "https://blog.bambulab.com/the-bambu-experience-an-ecosystem-that-redefines-3d-printing/",
+      "published": "2026-04-14T14:00:31+00:00",
+      "published_raw": "Tue, 14 Apr 2026 14:00:31 GMT",
+      "summary": "Without an ecosystem, there is no direction"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=137539",
+      "title": "Better Prints, Easier Use: Prusa XL+, CORE One L+ and CORE One+ (Gen 2), Our Big Product Upgrade",
+      "link": "https://blog.prusa3d.com/better-prints-easier-use-prusa-xl-core-one-l-and-core-one-gen-2-our-big-product-update_137539/",
+      "published": "2026-08-13T07:59:03+00:00",
+      "published_raw": "Thu, 13 Aug 2026 07:59:03 +0000",
+      "summary": "This summer, we are refreshing the entire lineup of our 3D printers. The new Prusa XL+, CORE One+ (Gen 2), and CORE One L+ bring cleaner print starts, better-looking surfaces, easier operation, and im…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=137458",
+      "title": "Prusament PA11 Natural: The perfect choice for printing gears and moving parts",
+      "link": "https://blog.prusa3d.com/prusament-pa11-natural-material-with-extreme-mechanical-and-chemical-resistance_137458/",
+      "published": "2026-07-23T10:00:22+00:00",
+      "published_raw": "Thu, 23 Jul 2026 10:00:22 +0000",
+      "summary": "Back in 2022, when we launched PA11 Carbon Fiber, we didn’t have any enclosed 3D printers with heating strong enough to support materials like pure polyamides. Sure, small parts were printable, but th…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=137377",
+      "title": "State of INDX – July 2026 Update: Founders Edition Shipping + What’s Next",
+      "link": "https://blog.prusa3d.com/indx_july_2026_update_137377/",
+      "published": "2026-07-03T09:46:16+00:00",
+      "published_raw": "Fri, 03 Jul 2026 09:46:16 +0000",
+      "summary": "The Bondtech INDX Founders Edition is out in the wild - huge congrats to our friends from Bondtech! :-) With that milestone behind us, we’re moving to the next phase: shipping the “standard” INDX Conv…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=137330",
+      "title": "Flash Summer Deal 2026: 20% Off MK4S & Reduced CORE One+ Shipping!",
+      "link": "https://blog.prusa3d.com/flash-summer-deal-2026-20-off-mk4s-reduced-core-one-shipping_137330/",
+      "published": "2026-06-29T13:27:16+00:00",
+      "published_raw": "Mon, 29 Jun 2026 13:27:16 +0000",
+      "summary": "Long summer days are perfect for bringing new projects to life. Plus, a 3D printer is a great end-of-school-year gift idea for creative students. To help you gear up for new creations, we've prepared…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=137202",
+      "title": "Open Community License v1.1: The New Plugin System, More Examples, and Your Questions Answered",
+      "link": "https://blog.prusa3d.com/open-community-license-v1-1-the-new-plugin-system-more-examples-and-your-questions-answered_137202/",
+      "published": "2026-06-24T11:01:42+00:00",
+      "published_raw": "Wed, 24 Jun 2026 11:01:42 +0000",
+      "summary": "Five months ago, we released the CORE One CAD files under the Open Community License. Since then, thousands of projects have been published under OCL, now including Research groups at UC Berkeley and…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=137192",
+      "title": "Prusament PLA High Speed: A perfect choice for rapid prototyping",
+      "link": "https://blog.prusa3d.com/prusament-pla-high-speed-a-perfect-choice-for-rapid-prototyping_137192/",
+      "published": "2026-06-22T06:00:03+00:00",
+      "published_raw": "Mon, 22 Jun 2026 06:00:03 +0000",
+      "summary": "Fast printers are great, but fast printers loaded with the right material are even better. And while the speed itself might not single-handedly solve every single challenge, there are situations where…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=136901",
+      "title": "Simple 3D-Printed Stencil Tips and Tricks for More Versatile Airbrushing",
+      "link": "https://blog.prusa3d.com/airbrushing-tricks-with-3d-printed-stencils_136901/",
+      "published": "2026-06-18T14:40:20+00:00",
+      "published_raw": "Thu, 18 Jun 2026 14:40:20 +0000",
+      "summary": "In this article, I'd like to show a few examples of using 3D printed airbrushing stencils: various masks and paint shields that let you paint all kinds of shapes on the surface of your model. Even tho…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=136243",
+      "title": "Control Your Smart Home with a Custom 3D-Printed Macropad",
+      "link": "https://blog.prusa3d.com/a-cheap-smart-light-controller-thanks-to-3d-printing_136243/",
+      "published": "2026-06-12T10:00:43+00:00",
+      "published_raw": "Fri, 12 Jun 2026 10:00:43 +0000",
+      "summary": "As a smart home enthusiast, I rely on smart lighting quite a lot. But when I needed to equip every room in the house with a light controller, sometimes even multiple, I ran into a budget problem. Comm…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=136716",
+      "title": "Fake Studio Lighting on your 3D Prints using Filament Mixing and a Free App",
+      "link": "https://blog.prusa3d.com/introducing-the-colormix-shading-app-make-your-models-pop-with-realistic-lighting_136716/",
+      "published": "2026-06-03T10:00:35+00:00",
+      "published_raw": "Wed, 03 Jun 2026 10:00:35 +0000",
+      "summary": "Last week, we introduced the Prusa ColorMix, a tool for combining existing filaments into new colors. Today, we'll show you how to use our new free web app to add realistic ColorMix shading to any mod…"
+    },
+    {
+      "manufacturer": "Prusa Research",
+      "id": "https://blog.prusa3d.com/?p=136337",
+      "title": "Prusament Resin Model+: New generation resin with safer health profile and better impact resistance",
+      "link": "https://blog.prusa3d.com/prusament-resin-model-new-generation-resin-with-safer-health-profile-and-better-impact-resistance_136337/",
+      "published": "2026-05-28T09:34:37+00:00",
+      "published_raw": "Thu, 28 May 2026 09:34:37 +0000",
+      "summary": "Meet Prusament Resin Model+, our reformulated SLA resin with faster exposure, better impact resistance, and reduced pigment sedimentation! The Prusament Model Resin has long been a flagship of our SLA…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/jrrf-2025",
+      "title": "JRRF 2025",
+      "link": "https://bigtree-tech.com/blogs/news/jrrf-2025",
+      "published": "2025-09-17T18:30:17-07:00",
+      "published_raw": "2025-09-17T18:30:17-07:00",
+      "summary": "What an unforgettable weekend at the Japan RepRap Festival (JRRF) 2025! The energy, creativity, and passion of the 3D printing community were absolutely electric, and we’re still buzzing from all the…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/rmrrf-2025",
+      "title": "RMRRF 2025",
+      "link": "https://bigtree-tech.com/blogs/news/rmrrf-2025",
+      "published": "2025-09-17T08:14:57-07:00",
+      "published_raw": "2025-09-17T08:14:57-07:00",
+      "summary": "We're still buzzing from the incredible energy at RMRRF 2025! It was wonderful to reunite with the 3D printing community and introduce some exciting new products. Our global team - with members travel…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/announcement-on-bambu-lab-security-firmware-update",
+      "title": "Announcement on Bambu Lab Security Firmware Update",
+      "link": "https://bigtree-tech.com/blogs/news/announcement-on-bambu-lab-security-firmware-update",
+      "published": "2025-01-26T03:36:03-07:00",
+      "published_raw": "2025-01-26T03:36:03-07:00",
+      "summary": "Panda Series FAQ: Since the release of Bambu Lab's security firmware update, we’ve been closely monitoring the situation and receiving inquiries about how it affects BIGTREETECH Panda Series products.…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/pandas-love-bamboo",
+      "title": "Pandas Love Bamboo",
+      "link": "https://bigtree-tech.com/blogs/news/pandas-love-bamboo",
+      "published": "2025-01-21T02:34:03-07:00",
+      "published_raw": "2025-01-21T02:34:03-07:00",
+      "summary": "Good People, We would like to offer an update on the Panda Touch and the upcoming firmware updates from Bambu Lab. In order to address some statements that have been made we do need to offer some back…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/biqu-and-the-international-cultural-industries-fair",
+      "title": "BIQU and the International Cultural Industries Fair",
+      "link": "https://bigtree-tech.com/blogs/news/biqu-and-the-international-cultural-industries-fair",
+      "published": "2024-06-03T05:59:20-07:00",
+      "published_raw": "2024-06-03T05:59:20-07:00",
+      "summary": "BIQU Innovation Technology had the pleasure of participating in the 20th China (Shenzhen) International Cultural Industries Fair held at the Tian'an Cloud Park for Digital Creativity on May 24, 2024,.…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/tct-2024",
+      "title": "TCT 2024",
+      "link": "https://bigtree-tech.com/blogs/news/tct-2024",
+      "published": "2024-05-21T03:39:46-07:00",
+      "published_raw": "2024-05-21T03:39:46-07:00",
+      "summary": "After 3 days of enjoyable interactions with industry professionals and hobbyists, BIGTREETECH turned off the lights at our TCT Asia booth for one last time on May the 9 th as the event came to a close…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/rmrrf-2024",
+      "title": "RMRRF 2024",
+      "link": "https://bigtree-tech.com/blogs/news/rmrrf-2024",
+      "published": "2024-05-13T21:20:21-07:00",
+      "published_raw": "2024-05-13T21:20:21-07:00",
+      "summary": "With SMRRF in December and RMRRF in April, there was only roughly 4 months between the two shows. Would BIGTREETECH have anything new to show at RMRRF given all the reveals that took place at SMRRF? B…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/tct-asia-expositions-2023",
+      "title": "TCT ASIA EXPOSITIONS 2023",
+      "link": "https://bigtree-tech.com/blogs/news/tct-asia-expositions-2023",
+      "published": "2023-09-05T03:54:17-07:00",
+      "published_raw": "2023-09-05T03:54:17-07:00",
+      "summary": "BIGTREETECH Unveils Cutting-Edge 3D Printing Solutions at TCT ASIA EXPOSITIONS 2023 Shanghai, China — BIGTREETECH, a leading name in the 3D printing industry, made waves at the highly anticipated TCT…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-sfs-v2-0",
+      "title": "New Release - BIGTREETECH SFS V2.0",
+      "link": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-sfs-v2-0",
+      "published": "2023-08-13T17:59:59-07:00",
+      "published_raw": "2023-08-13T17:59:59-07:00",
+      "summary": "BIGTREETECH SFS V2.0 revolutionizes your 3D printing experience, redefining it entirely. This exceptional solution amalgamates advanced functionalities, optimizing your printing process for unparallel…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/common-issue-in-3d-printing-material-extrusion-failure-after-starting-the-print",
+      "title": "Common Issue in 3D Printing: Material Extrusion Failure After Starting the Print",
+      "link": "https://bigtree-tech.com/blogs/news/common-issue-in-3d-printing-material-extrusion-failure-after-starting-the-print",
+      "published": "2023-08-01T21:22:40-07:00",
+      "published_raw": "2023-08-01T21:22:40-07:00",
+      "summary": "During the 3D printing process, a common issue can arise where the material fails to extrude, causing problems with the print progression. This article aims to help you identify the common causes of t…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/bigtreetech-breaking-boundaries-at-mrrf-2023",
+      "title": "BIGTREETECH:Breaking Boundaries at MRRF 2023",
+      "link": "https://bigtree-tech.com/blogs/news/bigtreetech-breaking-boundaries-at-mrrf-2023",
+      "published": "2023-07-03T02:35:22-07:00",
+      "published_raw": "2023-07-03T02:35:22-07:00",
+      "summary": "We are thrilled to share some exciting news with all of you in this blog post: BIGTREETECH, as a leading 3D printing pioneer in China, participated in the Midwest RepRap Festival 2023 held in the Unit…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-btt-pi",
+      "title": "New Release - BIGTREETECH BTT Pi",
+      "link": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-btt-pi",
+      "published": "2023-06-14T23:54:42-07:00",
+      "published_raw": "2023-06-14T23:54:42-07:00",
+      "summary": "BIGTREETECH BTT Pi is a single-board computer (SBC) with performance comparable to the Raspberry Pi 3 Model B. Its compact size and powerful processing capabilities provide a reliable and robust platf…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-pad-7",
+      "title": "New Release - BIGTREETECH Pad 7",
+      "link": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-pad-7",
+      "published": "2023-04-13T07:00:00-07:00",
+      "published_raw": "2023-04-13T07:00:00-07:00",
+      "summary": "BIGTREETECH Pad 7 is a 7-inch IPS touch screen tablet specifically designed to cater to the needs of 3D printing enthusiasts. It serves as an exceptional accessory for the majority of FDM printers cur…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/2022-klipper-and-bigtreetech-announce-a-strategic-partnership",
+      "title": "2022 KLIPPER and BIGTREETECH Announce a Strategic Partnership",
+      "link": "https://bigtree-tech.com/blogs/news/2022-klipper-and-bigtreetech-announce-a-strategic-partnership",
+      "published": "2022-07-31T19:34:21-07:00",
+      "published_raw": "2022-07-31T19:34:21-07:00",
+      "summary": "The cooperation between KLIPPER and BIGTREETECH makes the firmware for 3D printing enthusiasts more convenient to use and further enhances the printing experience. BIGTREETECH hop es to bring more pos…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release-manta-m4p-m8p-mainboard",
+      "title": "New Release - MANTA M4P M8P Mainboard",
+      "link": "https://bigtree-tech.com/blogs/news/new-release-manta-m4p-m8p-mainboard",
+      "published": "2022-07-02T00:00:00-07:00",
+      "published_raw": "2022-07-02T00:00:00-07:00",
+      "summary": "Klipper is becoming more and more popular in the 3D printing world due to its powerful functions. It must be run by Raspberry Pi or CM4. This method is too high-cost, so we create an innovative way to…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release_biqu-skr-3-and-skr-3-ez-motherboard",
+      "title": "New Release_BIQU SKR 3 and SKR 3 EZ Motherboard",
+      "link": "https://bigtree-tech.com/blogs/news/new-release_biqu-skr-3-and-skr-3-ez-motherboard",
+      "published": "2022-05-19T00:00:00-07:00",
+      "published_raw": "2022-05-19T00:00:00-07:00",
+      "summary": "Our new arrivals of SKR 3 and SKR 3 EZ motherboard, with a cool industrial design, will get you a better fantastic printing experience! Now, let's begin to explore the magic charm of these two motherb…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-raspberry-pad-5-lcd-for-3d-printer",
+      "title": "New Release - BIGTREETECH Raspberry Pad 5 LCD for 3D Printer",
+      "link": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-raspberry-pad-5-lcd-for-3d-printer",
+      "published": "2022-05-04T20:03:15-07:00",
+      "published_raw": "2022-05-04T20:03:15-07:00",
+      "summary": "Raspberry Pad 5 is the first maker-centric CM4 breakout board with an integrated display. It also includes peripherals not found on a standard Raspberry pi, offering flexibl expansion options for user…"
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-skr-pico-v1-0-control-board",
+      "title": "New Release - BIGTREETECH SKR PICO V1.0 Control Board",
+      "link": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-skr-pico-v1-0-control-board",
+      "published": "2022-05-04T20:03:15-07:00",
+      "published_raw": "2022-05-04T20:03:15-07:00",
+      "summary": "B IGTREETECH SKR PICO V1.0 Controller Board, designed specifically for use with Klipper. Increase the powerful cooling function and murata capacitors. Small Size. Big Power."
+    },
+    {
+      "manufacturer": "BigTreeTech",
+      "id": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-skr-mini-e3-v3-0-control-board",
+      "title": "New Release - BIGTREETECH SKR Mini E3 V3.0 Control Board",
+      "link": "https://bigtree-tech.com/blogs/news/new-release-bigtreetech-skr-mini-e3-v3-0-control-board",
+      "published": "2022-05-04T20:03:15-07:00",
+      "published_raw": "2022-05-04T20:03:15-07:00",
+      "summary": "BIGTREETECH SKR MINI E3 V3.0 Controller Board, New Upgrade Silent Board for Ender 3 3D Printer. Increase the powerful cooling function, quieter and smarter.Look hot. Keeps cool. BIGTREETECH SKR MINI E…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/why-high-flow-printing-doesnt-always-mean-high-speed-printing",
+      "title": "The Difference Between High Flow and High Speed in 3D Printing",
+      "link": "https://e3d-online.com/blogs/news/why-high-flow-printing-doesnt-always-mean-high-speed-printing",
+      "published": "2026-08-10T15:45:00+01:00",
+      "published_raw": "2026-08-10T15:45:00+01:00",
+      "summary": "You've upgraded your HotEnd or nozzle. You've seen the data sheet. It says 60% more volumetric flow. So why isn't your Benchy printing in half the time? You're not alone in wondering this, it's one of…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/introducing-bastion-coated-gears-your-printers-best-defence-against-wear",
+      "title": "Introducing Bastion Coated Gears: Your Printer's Best Defence Against Wear",
+      "link": "https://e3d-online.com/blogs/news/introducing-bastion-coated-gears-your-printers-best-defence-against-wear",
+      "published": "2026-06-24T12:02:42+01:00",
+      "published_raw": "2026-06-24T12:02:42+01:00",
+      "summary": "TLDR: E3D's exclusive Bastion coating meets precision-machined hardened steel gears and hobbs in the ultimate extruder upgrade for Bambu Lab printers. At E3D, we've spent years obsessing over extrusio…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/say-goodbye-to-surprise-fees-we-now-offer-global-ddp-shipping",
+      "title": "Say goodbye to surprise fees: We now offer global DDP shipping",
+      "link": "https://e3d-online.com/blogs/news/say-goodbye-to-surprise-fees-we-now-offer-global-ddp-shipping",
+      "published": "2026-06-05T09:13:15+01:00",
+      "published_raw": "2026-06-05T09:13:15+01:00",
+      "summary": "TL;DR: We've rolled out Delivered Duty Paid (DDP) shipping worldwide via UPS. The price you see at checkout is the price you pay – no nasty customs surprises landing on your doorstep. International sh…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/the-evolution-of-e3d-s-high-flow-technology",
+      "title": "The evolution of E3D’s high flow technology",
+      "link": "https://e3d-online.com/blogs/news/the-evolution-of-e3d-s-high-flow-technology",
+      "published": "2026-05-22T16:41:00+01:00",
+      "published_raw": "2026-05-22T16:41:00+01:00",
+      "summary": "TL;DR: Same form-factor, wildly different results We've never been ones to just go with the flow at E3D. We like to innovate, shake things up, and move the industry along as much as possible. So it’s…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/10-years-of-e3d-x-prusa",
+      "title": "10 Years of E3D x Prusa",
+      "link": "https://e3d-online.com/blogs/news/10-years-of-e3d-x-prusa",
+      "published": "2026-03-20T10:50:23+00:00",
+      "published_raw": "2026-03-20T10:50:23+00:00",
+      "summary": "TL;DR: 10 years of collaboration, the story behind E3D x Prusa We want to help people print better. That’s always been our simple and humble aim. And a huge part of being able to achieve that goal com…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/an-update-to-our-patent-pledge",
+      "title": "An update to our patent pledge",
+      "link": "https://e3d-online.com/blogs/news/an-update-to-our-patent-pledge",
+      "published": "2026-03-02T14:32:01+00:00",
+      "published_raw": "2026-03-02T14:32:01+00:00",
+      "summary": "We’ve been meaning to update our Patent Pledge for a while. The original was written by Sanjay, whose vision, integrity, and sheer bloody-minded optimism helped shape not just E3D, but the RepRap and…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/e3d-helps-apex-racing-achieve-their-dreams",
+      "title": "E3D helps APEX Racing achieve their dreams",
+      "link": "https://e3d-online.com/blogs/news/e3d-helps-apex-racing-achieve-their-dreams",
+      "published": "2026-02-24T11:36:36+00:00",
+      "published_raw": "2026-02-24T11:36:36+00:00",
+      "summary": "At E3D we’re driven by the belief that anyone can create something incredible with the right tools no matter their age or background. We’ve always been passionate about educating people about 3D print…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/the-launch-of-e3d-rewards",
+      "title": "The launch of E3D Rewards!",
+      "link": "https://e3d-online.com/blogs/news/the-launch-of-e3d-rewards",
+      "published": "2026-02-11T11:03:00+00:00",
+      "published_raw": "2026-02-11T11:03:00+00:00",
+      "summary": "We wouldn’t be in the position we are today without our amazing customers. Every purchase made on our website not only supports our staff and covers our production and running costs, but also helps fu…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/e3d-selected-for-innovate-uk-business-growth-s-scaleup-programme",
+      "title": "E3D selected for Innovate UK Business Growth’s Scaleup Programme!",
+      "link": "https://e3d-online.com/blogs/news/e3d-selected-for-innovate-uk-business-growth-s-scaleup-programme",
+      "published": "2026-02-03T11:28:39+00:00",
+      "published_raw": "2026-02-03T11:28:39+00:00",
+      "summary": "Innovation has always been at the heart of what we do here at E3D. From our humble beginnings in a ramshackle chicken shed, to the lofty heights of our current office in rural Oxfordshire 😉, creating…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/2025-wrapped-e3d-edition",
+      "title": "2025 wrapped: E3D edition",
+      "link": "https://e3d-online.com/blogs/news/2025-wrapped-e3d-edition",
+      "published": "2025-12-18T15:04:26+00:00",
+      "published_raw": "2025-12-18T15:04:26+00:00",
+      "summary": "There’s no doubt about it. 2025 has been an exciting year for E3D! There’s a real buzz around our humble little company right now, and we’re delighted to be recognised as a brand partner of choice by…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/batch-works-and-e3d-sign-strategic-partnership-to-scale-circular-3d-printing-farms-in-the-uk-and-globally",
+      "title": "Batch.Works and E3D sign strategic partnership to scale circular 3D printing farms in the UK and globally",
+      "link": "https://e3d-online.com/blogs/news/batch-works-and-e3d-sign-strategic-partnership-to-scale-circular-3d-printing-farms-in-the-uk-and-globally",
+      "published": "2025-11-28T10:12:53+00:00",
+      "published_raw": "2025-11-28T10:12:53+00:00",
+      "summary": "Collaboration will unlock local, low-impact and scalable production for brands, designers and innovators. London, UK – 27 November 2025 – Batch.Works , a leader in circular, localised 3D manufacturing…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/a-legacy-that-will-live-on-forever",
+      "title": "Sanjay Mortimer: A legacy that will live on forever",
+      "link": "https://e3d-online.com/blogs/news/a-legacy-that-will-live-on-forever",
+      "published": "2025-11-27T13:59:15+00:00",
+      "published_raw": "2025-11-27T13:59:15+00:00",
+      "summary": "We dream big at E3D and we like to celebrate success . T oday , however, is an anniversary that comes with some bittersweet memories for our team, for close friends & family , and also for the industr…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/obxidian500",
+      "title": "Introducing ObXiDian® 500: E3D takes printing to the next level",
+      "link": "https://e3d-online.com/blogs/news/obxidian500",
+      "published": "2025-11-18T07:35:57+00:00",
+      "published_raw": "2025-11-18T07:35:57+00:00",
+      "summary": "TL;DR: Hotter and harder than ever before. How we got here For over a decade E3D have been at the forefront of FDM innovation in the world of extrusion systems and coatings. Our mission has always bee…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/5-common-3d-printing-nightmares-and-how-to-solve-them",
+      "title": "5 common 3D printing nightmares! And how to solve them",
+      "link": "https://e3d-online.com/blogs/news/5-common-3d-printing-nightmares-and-how-to-solve-them",
+      "published": "2025-10-22T10:33:29+01:00",
+      "published_raw": "2025-10-22T10:33:29+01:00",
+      "summary": "3D printing is fun. There’s no denying that. But it can also be terrifyingly frustrating. Failed prints suck the life out of even the most experienced creators. Thankfully Team E3D have got the magic…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/unlock-faster-stronger-prints-on-your-bambu-lab-a1-a1-mini",
+      "title": "Unlock faster, stronger prints on your Bambu Lab A1 + A1 Mini",
+      "link": "https://e3d-online.com/blogs/news/unlock-faster-stronger-prints-on-your-bambu-lab-a1-a1-mini",
+      "published": "2025-10-01T13:25:13+01:00",
+      "published_raw": "2025-10-01T13:25:13+01:00",
+      "summary": "Calling all A1 and A1 Mini users 📢. We’re super excited to announce that we’ve just developed two new premium upgrades that will turn your stock printer into an industrial grade printer! As with all o…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/sanjay-mortimer-foundation-update",
+      "title": "True legends never die",
+      "link": "https://e3d-online.com/blogs/news/sanjay-mortimer-foundation-update",
+      "published": "2025-09-01T17:04:16+01:00",
+      "published_raw": "2025-09-01T17:04:16+01:00",
+      "summary": "How the mind of one extraordinary man impacted the lives of countless others As we get close to this year’s International Day of Charity (Friday 5 th September) we wanted to share a little about a cha…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/spring-chicken-an-e3d-stress-test",
+      "title": "Spring Chicken: An E3D Stress Test",
+      "link": "https://e3d-online.com/blogs/news/spring-chicken-an-e3d-stress-test",
+      "published": "2025-04-15T11:48:48+01:00",
+      "published_raw": "2025-04-15T11:48:48+01:00",
+      "summary": "TLDR: Back again with another seasonal Stress Test for your printer – and this one’s eggstra special! Download Spring Chicken, share your print with us, and you could win one of the cracking prizes be…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/valentines-day-comp",
+      "title": "Valentines Day Heart - Stress Test Competition 2025",
+      "link": "https://e3d-online.com/blogs/news/valentines-day-comp",
+      "published": "2025-02-07T08:27:06+00:00",
+      "published_raw": "2025-02-07T08:27:06+00:00",
+      "summary": "TLDR; After a two year hiatus, we're back with a new Stress Test for you! Print our model and share it with us for a chance to win from the below prizes: High Flow ObXidian Bambu Lab HotEnd (X1C, P1P…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/creality-unicorn-nozzles-print-faster-stronger-than-ever",
+      "title": "Creality Unicorn Nozzles: Print Faster & Stronger Than Ever!",
+      "link": "https://e3d-online.com/blogs/news/creality-unicorn-nozzles-print-faster-stronger-than-ever",
+      "published": "2025-02-03T11:33:46+00:00",
+      "published_raw": "2025-02-03T11:33:46+00:00",
+      "summary": "We’re thrilled to announce that our aftermarket range of Creality Unicorn nozzles is complete. These nozzles are specifically designed to enhance your printing experience with Creality printers, inclu…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/batch-works-and-e3d-unveil-uk-partnership-with-support-from-government-funding",
+      "title": "Batch.Works and E3D Unveil UK Partnership with Support from Government Funding",
+      "link": "https://e3d-online.com/blogs/news/batch-works-and-e3d-unveil-uk-partnership-with-support-from-government-funding",
+      "published": "2025-01-20T16:19:48+00:00",
+      "published_raw": "2025-01-20T16:19:48+00:00",
+      "summary": "In a collaboration led by Batch.Works, the two companies aim to revolutionise sustainable additive manufacturing with breakthrough technologies, supported by the prestigious Smart Grant competition un…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/extreme-abrasion-resistance-introducing-the-e3d-diamondbakc-hotend-for-bambu-lab-x1c-p1p-p1s-3d-printers",
+      "title": "Extreme abrasion resistance: Introducing the E3D DiamondBack HotEnd for Bambu Lab X1C, P1p, P1S 3D Printers",
+      "link": "https://e3d-online.com/blogs/news/extreme-abrasion-resistance-introducing-the-e3d-diamondbakc-hotend-for-bambu-lab-x1c-p1p-p1s-3d-printers",
+      "published": "2024-09-19T15:11:00+01:00",
+      "published_raw": "2024-09-19T15:11:00+01:00",
+      "summary": "TL;DR Building on the great success of our E3D High Flow ObXidian Complete HotEnd for Bambu Lab printers, we are thrilled to announce our latest product: The DiamondBack Complete HotEnd for Bambu Lab…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/introducing-e3d-bambu-hf-obxidian_hotend",
+      "title": "Introducing High Flow ObXidian HotEnds For Bambu Lab X1C, P1P, & P1S Printers.",
+      "link": "https://e3d-online.com/blogs/news/introducing-e3d-bambu-hf-obxidian_hotend",
+      "published": "2024-09-08T14:45:00+01:00",
+      "published_raw": "2024-09-08T14:45:00+01:00",
+      "summary": "TL;DR E3D and Bambu unveil a HotEnd that allows you to print 60% faster with your Bambu X1 and P1 Printers. Read more to find out how it came to be, and to find out the full specifications! Story Time…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/introducing-pz-probe",
+      "title": "Introducing PZ Probe",
+      "link": "https://e3d-online.com/blogs/news/introducing-pz-probe",
+      "published": "2024-08-29T13:56:57+01:00",
+      "published_raw": "2024-08-29T13:56:57+01:00",
+      "summary": "TL;DR Introducing the PZ Probe™, E3D's compact bed-levelling system that turns your nozzle into a bed probe. This lightweight, drop-in upgrade ensures accurate printing without compromising toolhead s…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/roto-unlock-additional-performance-from-your-printer-with-roto-it-s-all-the-extruder-you-need-without-unnecessary-bulk",
+      "title": "Roto: Unlock additional performance from your printer with Roto. It’s all the extruder you need without unnecessary bulk.",
+      "link": "https://e3d-online.com/blogs/news/roto-unlock-additional-performance-from-your-printer-with-roto-it-s-all-the-extruder-you-need-without-unnecessary-bulk",
+      "published": "2023-12-01T13:13:00+00:00",
+      "published_raw": "2023-12-01T13:13:00+00:00",
+      "summary": "TL;DR: Building upon decades of extrusion system expertise, E3D has produced a featherweight all-in-one extruder that outperforms competitors for power density and thermal efficiency. This enables you…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/zodiac-by-e3d",
+      "title": "Introducing Zodiac by E3D",
+      "link": "https://e3d-online.com/blogs/news/zodiac-by-e3d",
+      "published": "2023-06-14T14:38:34+01:00",
+      "published_raw": "2023-06-14T14:38:34+01:00",
+      "summary": "Zodiac by E3D - Nozzles available now! TL; DR: Following our acquisition of Zodiac, we’re delighted to launch V6, Volcano, Raise and MK8 Nozzles in both CRB and Pro variants. Last year we announced th…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/revo-high-flow",
+      "title": "Revo™ High Flow",
+      "link": "https://e3d-online.com/blogs/news/revo-high-flow",
+      "published": "2023-05-17T13:54:22+01:00",
+      "published_raw": "2023-05-17T13:54:22+01:00",
+      "summary": "TL; DR: High Flow done differently. Six innovative new Nozzles, available to buy right now! RapidChange Revo™ High Flow: Just a Nozzle swap away! High-flow 3D printing is becoming more accessible than…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/rapidchange-revo%E2%84%A2-high-flow-intellectual-property",
+      "title": "RapidChange Revo™ High Flow & Intellectual Property",
+      "link": "https://e3d-online.com/blogs/news/rapidchange-revo%E2%84%A2-high-flow-intellectual-property",
+      "published": "2023-05-05T13:32:00+01:00",
+      "published_raw": "2023-05-05T13:32:00+01:00",
+      "summary": "The background for our own high flow solution is a two year, ground-up development process, looking into every aspect that affects material flow – not simply melting and extruding material ‘faster’, b…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/e3d-meets-olivia-qdp2d",
+      "title": "E3D Meets Olivia - QDP2D",
+      "link": "https://e3d-online.com/blogs/news/e3d-meets-olivia-qdp2d",
+      "published": "2023-04-04T09:41:00+01:00",
+      "published_raw": "2023-04-04T09:41:00+01:00",
+      "summary": "Olivia with friends at ERRF 2022 . TL;DR: Last week we caught up with our good friend, the extremely talented Olivia aka QDP2D . We spoke about her 3D printing journey, how she first met Sanjay and he…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/case-study-trilab-delta-3d-printers",
+      "title": "Case Study: TRILAB Delta 3D Printers",
+      "link": "https://e3d-online.com/blogs/news/case-study-trilab-delta-3d-printers",
+      "published": "2023-03-03T12:58:00+00:00",
+      "published_raw": "2023-03-03T12:58:00+00:00",
+      "summary": "TL; DR: We talked to TRILAB about their history, what makes their products special and how E3D fits into their plans! TRILAB are a company from the Czech Republic that was founded in 2016 by Vojtěch T…"
+    },
+    {
+      "manufacturer": "E3D",
+      "id": "https://e3d-online.com/blogs/news/how-to-prepare-prusa-slicer-for-revo-high-flow",
+      "title": "How to prepare Prusa slicer for Revo High Flow",
+      "link": "https://e3d-online.com/blogs/news/how-to-prepare-prusa-slicer-for-revo-high-flow",
+      "published": "2023-01-29T13:05:00+00:00",
+      "published_raw": "2023-01-29T13:05:00+00:00",
+      "summary": "This guide intends to show you how to unlock the high-flow capabilities of Prusa slicer. It's a tutorial for realising the optimal high-flow print settings. When experimenting with Revo High Flow, you…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/understanding-clogs-in-3d-printing-why-they-happen-and-how-to-prevent-them",
+      "title": "Understanding Clogs in 3D Printing: Why They Happen and How to Prevent Them",
+      "link": "https://www.sliceengineering.com/blogs/news/understanding-clogs-in-3d-printing-why-they-happen-and-how-to-prevent-them",
+      "published": "2024-11-14T12:53:23-05:00",
+      "published_raw": "2024-11-14T12:53:23-05:00",
+      "summary": "One of the most common frustrations for 3D printing enthusiasts is hotend clogs. While clogs can happen with any material or setup, they’re especially frequent when printing with lower-temperature fil…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/mako-hotend-volumetric-flow-rate",
+      "title": "Mako Hotend Flow Rate: High-Speed 3D Printing",
+      "link": "https://www.sliceengineering.com/blogs/news/mako-hotend-volumetric-flow-rate",
+      "published": "2024-09-30T16:39:32-04:00",
+      "published_raw": "2024-09-30T16:39:32-04:00",
+      "summary": "Introduction When we set out to design the Mako Hotend for the Bambu Lab series printers, we aimed to push the limits of performance, reliability, and nozzle interchangeability. At the heart of this m…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/fin-the-complete-guide",
+      "title": "FIN: The Complete Guide",
+      "link": "https://www.sliceengineering.com/blogs/news/fin-the-complete-guide",
+      "published": "2024-07-22T11:00:01-04:00",
+      "published_raw": "2024-07-22T11:00:01-04:00",
+      "summary": "We have received a lot of questions about the new FIN standard we debuted with the launch of our latest Mako™ hotend for Bambu Lab machines. We’ll try to answer all the questions below, but the core o…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/understanding-hotend-flow-rate",
+      "title": "Understanding Hotend Flow Rate",
+      "link": "https://www.sliceengineering.com/blogs/news/understanding-hotend-flow-rate",
+      "published": "2024-01-25T11:46:32-05:00",
+      "published_raw": "2024-01-25T11:46:32-05:00",
+      "summary": "In 3D printing, the flow rate of your hotend is crucial. It determines how fast and efficiently your printer can operate. At Slice Engineering, we've been refining our understanding of this concept. L…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/evolution-of-the-mosquito",
+      "title": "The Evolution of the Mosquito Hotend: Revolutionizing 3D Printing",
+      "link": "https://www.sliceengineering.com/blogs/news/evolution-of-the-mosquito",
+      "published": "2023-11-22T12:29:42-05:00",
+      "published_raw": "2023-11-22T12:29:42-05:00",
+      "summary": "The Mosquito® Hotend was launched in 2018, and development started back in 2016. You may be wondering: why outline all of the design changes that the Mosquito has gone through over the years now? Why…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/the-power-of-3d-printing-for-implementing-5s",
+      "title": "The Power of 3D Printing for Implementing 5S",
+      "link": "https://www.sliceengineering.com/blogs/news/the-power-of-3d-printing-for-implementing-5s",
+      "published": "2023-09-27T15:00:21-04:00",
+      "published_raw": "2023-09-27T15:00:21-04:00",
+      "summary": "The 5S methodology centers around organization, efficiency, and waste elimination. With 3D printing, organizations can rapidly create customized components that optimize their unique 5S processes in m…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/why-does-am-matter",
+      "title": "Why Does Additive Manufacturing Matter?",
+      "link": "https://www.sliceengineering.com/blogs/news/why-does-am-matter",
+      "published": "2023-06-22T12:10:29-04:00",
+      "published_raw": "2023-06-22T12:10:29-04:00",
+      "summary": "In a rapidly evolving world, additive manufacturing, commonly called 3D printing, is emerging as a groundbreaking technology with the potential to reshape industries and drive positive change. But why…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/rapid-tct-2023",
+      "title": "Making Waves at Rapid + TCT 2023",
+      "link": "https://www.sliceengineering.com/blogs/news/rapid-tct-2023",
+      "published": "2023-05-09T12:04:28-04:00",
+      "published_raw": "2023-05-09T12:04:28-04:00",
+      "summary": "Slice Engineering was exhibiting next to the SME Main Stage and SME Zone at Rapid + TCT this year. With an announcement by Todd Grimm on the main stage as well as our press conference held during the…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/introducing-gammamaster",
+      "title": "Introducing the GammaMaster Nozzle",
+      "link": "https://www.sliceengineering.com/blogs/news/introducing-gammamaster",
+      "published": "2023-05-09T10:39:47-04:00",
+      "published_raw": "2023-05-09T10:39:47-04:00",
+      "summary": "Over the past two years, our team has dedicated significant effort towards developing a revolutionary new nozzle. After extensive research, testing, and iterative design, we are thrilled to introduce…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/boron-nitride-paste-what-you-need-to-know",
+      "title": "Boron Nitride Paste: What You Need to Know",
+      "link": "https://www.sliceengineering.com/blogs/news/boron-nitride-paste-what-you-need-to-know",
+      "published": "2023-03-06T16:30:00-05:00",
+      "published_raw": "2023-03-06T16:30:00-05:00",
+      "summary": "NASA is turning to Boron Nitride (BN) for high-temperature applications on their first crewed mission to Mars, and it's no surprise why: it works. BN Paste efficiently elevates heat conduction between…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/winning-the-war-against-moisture",
+      "title": "Winning the War Against Moisture: A Guide to Filament Drying Desiccant",
+      "link": "https://www.sliceengineering.com/blogs/news/winning-the-war-against-moisture",
+      "published": "2023-02-20T16:49:11-05:00",
+      "published_raw": "2023-02-20T16:49:11-05:00",
+      "summary": "The fight against moisture has plagued 3D printing enthusiasts and professionals since the inception of FFF printing. Most 3D printing filaments are hygroscopic, which means they absorb moisture from…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/slice-engineering-announces-partnership-with-infinity-3dp",
+      "title": "Slice Engineering Announces Partnership with Infinity 3DP",
+      "link": "https://www.sliceengineering.com/blogs/news/slice-engineering-announces-partnership-with-infinity-3dp",
+      "published": "2023-02-08T11:46:52-05:00",
+      "published_raw": "2023-02-08T11:46:52-05:00",
+      "summary": "As the desktop 3D printing industry grows, so does the need for innovative and unique desktop printing solutions. In an effort to continue pursuing our commitment to innovation within FFF, also known…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/additive-manufacturing-in-the-military",
+      "title": "Additive Manufacturing in the Military",
+      "link": "https://www.sliceengineering.com/blogs/news/additive-manufacturing-in-the-military",
+      "published": "2023-01-26T15:15:25-05:00",
+      "published_raw": "2023-01-26T15:15:25-05:00",
+      "summary": "At Slice Engineering, we take pride in supporting our veterans and active-duty military personnel. These men and women have dedicated their lives to protecting our country. We value their service and…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/small-business-saturday-2022",
+      "title": "Small Teams Can Do Big Things",
+      "link": "https://www.sliceengineering.com/blogs/news/small-business-saturday-2022",
+      "published": "2022-11-26T06:00:01-05:00",
+      "published_raw": "2022-11-26T06:00:01-05:00",
+      "summary": "Slice Engineering was launched in the summer of 2018 at the Midwest RepRap Festival in Goshen, Indiana. Our founders, Daniel Barousse and Chris Montgomery, showed up to the festival with 35 pre-produc…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/veterans-day-2022",
+      "title": "Honoring Our Veterans",
+      "link": "https://www.sliceengineering.com/blogs/news/veterans-day-2022",
+      "published": "2022-11-11T08:00:01-05:00",
+      "published_raw": "2022-11-11T08:00:01-05:00",
+      "summary": "Happy Veterans Day to all who have served and are currently serving. Thank you. In 2021, the U.S. Census Bureau released the count of veterans in the United States from 2015-2019. There are 18.2 milli…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/additional-thoughts-on-intellectual-property-in-the-3d-printing-space",
+      "title": "A Response To Companies That Exploit IP",
+      "link": "https://www.sliceengineering.com/blogs/news/additional-thoughts-on-intellectual-property-in-the-3d-printing-space",
+      "published": "2022-11-10T17:31:35-05:00",
+      "published_raw": "2022-11-10T17:31:35-05:00",
+      "summary": "There has been some recent confusion about how intellectual property (IP) works, how it is applied in the 3D printing space generally, and specifically to the IP created by Slice Engineering . I recen…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/filament-fillers",
+      "title": "A Brief Introduction to Filament Fillers",
+      "link": "https://www.sliceengineering.com/blogs/news/filament-fillers",
+      "published": "2022-10-04T10:31:10-04:00",
+      "published_raw": "2022-10-04T10:31:10-04:00",
+      "summary": "Polymers and their unique properties are well suited for many applications but can be enhanced further by adding a filler. Neat polymers, or unfilled polymers, have good strength and chemical stabilit…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/the-3d-printing-holy-trinity",
+      "title": "The 3D Printing Holy Trinity: PLA, ABS, and PETG",
+      "link": "https://www.sliceengineering.com/blogs/news/the-3d-printing-holy-trinity",
+      "published": "2022-08-29T12:11:04-04:00",
+      "published_raw": "2022-08-29T12:11:04-04:00",
+      "summary": "Every 3D printer owner has heard of PLA, ABS, and PETG filaments before, and for good reason. Each polymer has its own unique properties that allow high-quality parts to be produced for various applic…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/which-nozzle-is-right-for-you",
+      "title": "Which Nozzle is Right for You?",
+      "link": "https://www.sliceengineering.com/blogs/news/which-nozzle-is-right-for-you",
+      "published": "2022-08-08T09:22:53-04:00",
+      "published_raw": "2022-08-08T09:22:53-04:00",
+      "summary": "With many options available, knowing what nozzle is best can be intimidating. Selecting the correct nozzle when 3D printing is critical for getting the best results. This guide breaks down the most im…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/protecting-your-hotend-from-cold-air-and-filament",
+      "title": "Protecting Your Hotend from Cold Air and Filament",
+      "link": "https://www.sliceengineering.com/blogs/news/protecting-your-hotend-from-cold-air-and-filament",
+      "published": "2022-07-28T09:53:11-04:00",
+      "published_raw": "2022-07-28T09:53:11-04:00",
+      "summary": "Among the three methods of heat transfer, convection and radiation tend to work against hotends designed for Fused Filament Fabrication (FFF) when it comes to maintaining the temperature of the hot si…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/made-in-america",
+      "title": "Made in America",
+      "link": "https://www.sliceengineering.com/blogs/news/made-in-america",
+      "published": "2022-07-01T17:36:10-04:00",
+      "published_raw": "2022-07-01T17:36:10-04:00",
+      "summary": "As the United States approaches its 246th birthday I hope we can agree on two things: this great country is worth preserving and one of the ways we do that is to have more jobs in America. I spent mos…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/love-letter-to-mrrf",
+      "title": "A Love Letter to the Midwest RepRap Festival",
+      "link": "https://www.sliceengineering.com/blogs/news/love-letter-to-mrrf",
+      "published": "2022-06-22T17:08:56-04:00",
+      "published_raw": "2022-06-22T17:08:56-04:00",
+      "summary": "The Midwest Rep Rap Festival (MRRF) has a special place in my heart, in the hearts of many in the 3D printing community, and a unique place in Slice Engineering's history. For the uninitiated, MRRF is…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/2021-3d-printing-industry-awards-slice-engineering-wins-startup-of-the-year",
+      "title": "Slice Engineering wins Startup of the Year",
+      "link": "https://www.sliceengineering.com/blogs/news/2021-3d-printing-industry-awards-slice-engineering-wins-startup-of-the-year",
+      "published": "2021-11-01T13:00:00-04:00",
+      "published_raw": "2021-11-01T13:00:00-04:00",
+      "summary": "Headquarters Location: [Gainesville, FL – Thursday 21 st October] Slice Engineering is proud to announce that we have been nominated and elected by public vote to be the winners of 2021 3DPI Startup o…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/printing-ferrari-parts",
+      "title": "3D Printing New Parts for a Classic Ferrari",
+      "link": "https://www.sliceengineering.com/blogs/news/printing-ferrari-parts",
+      "published": "2021-10-19T12:09:25-04:00",
+      "published_raw": "2021-10-19T12:09:25-04:00",
+      "summary": "Have you ever needed a low-cost solution to what seemed like a budget draining project? Whether it was for a teeny, tiny hobby related part that makes no sense to machine, or a manufactured mold to be…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/mosquito%C2%AE-magnum-get-results-faster",
+      "title": "Mosquito Magnum+®: Get Results, Faster",
+      "link": "https://www.sliceengineering.com/blogs/news/mosquito%C2%AE-magnum-get-results-faster",
+      "published": "2021-09-10T14:37:07-04:00",
+      "published_raw": "2021-09-10T14:37:07-04:00",
+      "summary": "Supply chain efficiency is one of the primary concerns for most businesses. This is especially true in light of the ongoing trade wars and health crises worldwide. Manufacturers must respond to market…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/slice-engineering-wins-smbe-gold-award-and-recognized-as-high-performing-manufacturer",
+      "title": "Slice Engineering Wins SMBE Gold Award",
+      "link": "https://www.sliceengineering.com/blogs/news/slice-engineering-wins-smbe-gold-award-and-recognized-as-high-performing-manufacturer",
+      "published": "2021-06-25T17:06:03-04:00",
+      "published_raw": "2021-06-25T17:06:03-04:00",
+      "summary": "GAINESVILLE, Fla. (JUNE 25, 2021)-- Slice Engineering announces today that it was selected as a Gold Winner of the Florida Sterling Manufacturing Business Excellence Awards. FloridaMakes and The Flori…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/stance-on-intellectual-property-rights",
+      "title": "Open Source and Intellectual Property at Slice Engineering",
+      "link": "https://www.sliceengineering.com/blogs/news/stance-on-intellectual-property-rights",
+      "published": "2021-06-25T14:21:07-04:00",
+      "published_raw": "2021-06-25T14:21:07-04:00",
+      "summary": "At Slice Engineering we have never been shy about our stance on Intellectual Property (IP) and Free & Open Source Hardware (FOSH). Our first prototypes for the Mosquito® Hotend had the words “Patent P…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/slice-engineering-teams-up-with-bondtech-to-launch-the-ddx-for-creality-3d-printers",
+      "title": "Slice Teams up with Bondtech to Launch the DDX for Creality 3D Printers",
+      "link": "https://www.sliceengineering.com/blogs/news/slice-engineering-teams-up-with-bondtech-to-launch-the-ddx-for-creality-3d-printers",
+      "published": "2020-11-18T10:31:24-05:00",
+      "published_raw": "2020-11-18T10:31:24-05:00",
+      "summary": "Slice Engineering and Bondtech recently announced the full launch of the “Bondtech DDX Direct Drive eXtruder for Creality” ecosystem. The expanded DDX ecosystem includes a redesigned version of the Bo…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/slice-listed-as-a-top-startup-to-follow-by-welp-magazine",
+      "title": "Slice Listed as a Top Startup to Follow by Welp Magazine",
+      "link": "https://www.sliceengineering.com/blogs/news/slice-listed-as-a-top-startup-to-follow-by-welp-magazine",
+      "published": "2020-09-18T13:04:30-04:00",
+      "published_raw": "2020-09-18T13:04:30-04:00",
+      "summary": "No one knows yet what the final effects of 2020 will be on the global economy, public health, and political structures. One thing is for sure though, additive manufacturing (3D printing) is here to st…"
+    },
+    {
+      "manufacturer": "Slice Engineering",
+      "id": "https://www.sliceengineering.com/blogs/news/stacker-finds-industrial-design-solution-with-slice-engineering-s-latest-thermodynamic-component",
+      "title": "Stacker Finds a Thermodynamic Solution with the Copperhead from Slice Engineering",
+      "link": "https://www.sliceengineering.com/blogs/news/stacker-finds-industrial-design-solution-with-slice-engineering-s-latest-thermodynamic-component",
+      "published": "2020-08-07T15:26:00-04:00",
+      "published_raw": "2020-08-07T15:26:00-04:00",
+      "summary": "Stacker, a Minneapolis, Minnesota, based 3D printer manufacturer, has decided to upgrade their latest printer design to feature several Slice Engineering® components, including the Copperhead® Bimetal…"
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=113097",
+      "title": "INDX – Hardened Nozzles Update",
+      "link": "https://www.bondtech.se/2026/07/29/indx-hardened-nozzles-update/",
+      "published": "2026-07-29T13:07:49+00:00",
+      "published_raw": "Wed, 29 Jul 2026 13:07:49 +0000",
+      "summary": "Dear customers, You backed the INDX before anyone had one in their hands, and we deeply appreciate you putting your faith in our new product. This is why we take this matter very seriously. The INDX n…"
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=105630",
+      "title": "All Duties Included at Checkout for US Customers",
+      "link": "https://www.bondtech.se/2026/01/23/all-duties-included-at-checkout-for-us-customers/",
+      "published": "2026-01-23T14:00:58+00:00",
+      "published_raw": "Fri, 23 Jan 2026 14:00:58 +0000",
+      "summary": "A smoother shopping experience for our customers in the US We’re happy to share an update that makes shopping with us even easier. To improve clarity and peace of mind for our US customers, we’ve upda…"
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=100930",
+      "title": "New Currency Exchange Policy",
+      "link": "https://www.bondtech.se/2025/10/08/new-currency-exchange-policy/",
+      "published": "2025-10-08T12:59:00+00:00",
+      "published_raw": "Wed, 08 Oct 2025 12:59:00 +0000",
+      "summary": "The post New Currency Exchange Policy appeared first on Bondtech ."
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=100699",
+      "title": "Good Things Take Time",
+      "link": "https://www.bondtech.se/2025/09/26/good-things-take-time/",
+      "published": "2025-09-26T11:30:49+00:00",
+      "published_raw": "Fri, 26 Sep 2025 11:30:49 +0000",
+      "summary": "The post Good Things Take Time appeared first on Bondtech ."
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=99897",
+      "title": "Why Extra Costs May Apply to Your Order",
+      "link": "https://www.bondtech.se/2025/09/02/why-extra-costs-may-apply-to-your-order/",
+      "published": "2025-09-02T08:12:59+00:00",
+      "published_raw": "Tue, 02 Sep 2025 08:12:59 +0000",
+      "summary": "The post Why Extra Costs May Apply to Your Order appeared first on Bondtech ."
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=94235",
+      "title": "What IN means, in Bondtech INDX",
+      "link": "https://www.bondtech.se/2025/04/25/what-in-means-in-bondtech-indx/",
+      "published": "2025-04-25T12:59:55+00:00",
+      "published_raw": "Fri, 25 Apr 2025 12:59:55 +0000",
+      "summary": "We unveil more about the Bondtech INDX. What IN means? It relates to a couple of technologies at the core of the INDX's multi-tool capacity. The post What IN means, in Bondtech INDX appeared first on…"
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=93919",
+      "title": "What DX means, in Bondtech INDX",
+      "link": "https://www.bondtech.se/2025/04/04/what-dx-means-in-bondtech-indx/",
+      "published": "2025-04-04T12:59:20+00:00",
+      "published_raw": "Fri, 04 Apr 2025 12:59:20 +0000",
+      "summary": "Today we unveil a bit more about the Bondtech INDX. We explain what the DX means, and what is it all about. The post What DX means, in Bondtech INDX appeared first on Bondtech ."
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=85721",
+      "title": "Beat our Design and Engineering skills – The Bondtech Ultimate 3D Printed Spinning Top Challenge!",
+      "link": "https://www.bondtech.se/2024/10/01/beat-our-design-and-engineering-skills-the-bondtech-ultimate-3d-printed-spinning-top-challenge/",
+      "published": "2024-10-01T13:53:03+00:00",
+      "published_raw": "Tue, 01 Oct 2024 13:53:03 +0000",
+      "summary": "The post Beat our Design and Engineering skills – The Bondtech Ultimate 3D Printed Spinning Top Challenge! appeared first on Bondtech ."
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=85008",
+      "title": "Bondtech @ 3D MEETUP 2024",
+      "link": "https://www.bondtech.se/2024/03/11/bondtech-3d-meetup-2024/",
+      "published": "2024-03-11T11:23:41+00:00",
+      "published_raw": "Mon, 11 Mar 2024 11:23:41 +0000",
+      "summary": "Bondtech will be at 3D Meetup 2024, in Helsingborg Sweden, showcasing the latest upgrade kits for Creality, Voron, Ultimaker and Elegoo 3D printers. The post Bondtech @ 3D MEETUP 2024 appeared first o…"
+    },
+    {
+      "manufacturer": "Bondtech",
+      "id": "https://www.bondtech.se/?p=84818",
+      "title": "Unleashing Core Heating Technology (CHT) in 3D Printing: A Game-Changer for All Scales",
+      "link": "https://www.bondtech.se/2024/03/04/unleashing-core-heating-technology-cht-in-3d-printing-a-game-changer-for-all-scales/",
+      "published": "2024-03-04T10:36:20+00:00",
+      "published_raw": "Mon, 04 Mar 2024 10:36:20 +0000",
+      "summary": "In the ever-evolving landscape of 3D printing technology, a groundbreaking innovation has emerged that promises to revolutionize the way thermoplastic filaments are melted and deposited known as Core…"
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=139242",
+      "title": "Just released: Raspberry Pi Book of Making 2027",
+      "link": "https://www.raspberrypi.com/news/just-released-raspberry-pi-book-of-making-2027/",
+      "published": "2026-08-14T09:49:38+00:00",
+      "published_raw": "Fri, 14 Aug 2026 09:49:38 +0000",
+      "summary": "We’ve once again rounded up a few of our favourite projects previously published in Raspberry Pi Official Magazine. The post Just released: Raspberry Pi Book of Making 2027 appeared first on Raspberry…"
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=139412",
+      "title": "Get started with LiteRT on Raspberry Pi",
+      "link": "https://www.raspberrypi.com/news/get-started-with-litert-on-raspberry-pi/",
+      "published": "2026-08-13T08:41:56+00:00",
+      "published_raw": "Thu, 13 Aug 2026 08:41:56 +0000",
+      "summary": "Install and run high-performance on-device AI using the LiteRT CLI tool on Raspberry Pi. The post Get started with LiteRT on Raspberry Pi appeared first on Raspberry Pi ."
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=138921",
+      "title": "Mastering edge AI on Raspberry Pi with LiteRT and Gemma",
+      "link": "https://www.raspberrypi.com/news/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "published": "2026-08-11T15:04:00+00:00",
+      "published_raw": "Tue, 11 Aug 2026 15:04:00 +0000",
+      "summary": "Our friends at Google have been busy working on improving LiteRT performance on the Raspberry Pi platform. The post Mastering edge AI on Raspberry Pi with LiteRT and Gemma appeared first on Raspberry…"
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=139151",
+      "title": "Curiously minty Raspberry Pi Zero cyberdeck",
+      "link": "https://www.raspberrypi.com/news/curiously-minty-raspberry-pi-zero-cyberdeck/",
+      "published": "2026-08-10T12:52:43+00:00",
+      "published_raw": "Mon, 10 Aug 2026 12:52:43 +0000",
+      "summary": "Marrying the Raspberry Pi community's enduring love for cyberdecks and building tiny projects inside Altoids tins. The post Curiously minty Raspberry Pi Zero cyberdeck appeared first on Raspberry Pi ."
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=139152",
+      "title": "SPOKE: An RP2040-powered touch controller",
+      "link": "https://www.raspberrypi.com/news/spoke-an-rp2040-powered-touch-controller/",
+      "published": "2026-08-07T09:19:40+00:00",
+      "published_raw": "Fri, 07 Aug 2026 09:19:40 +0000",
+      "summary": "SPOKE is a well-designed RP2040-powered touch controller that can also act as a MIDI input or HID. The post SPOKE: An RP2040-powered touch controller appeared first on Raspberry Pi ."
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=139079",
+      "title": "Build a Raspberry Pi Pico route finder using Dijkstra’s algorithm",
+      "link": "https://www.raspberrypi.com/news/build-a-raspberry-pi-pico-route-finder-using-dijkstras-algorithm/",
+      "published": "2026-08-06T09:51:08+00:00",
+      "published_raw": "Thu, 06 Aug 2026 09:51:08 +0000",
+      "summary": "Build a pocket-sized route finder with Raspberry Pi Pico and navigate your way to treasure using proper computer science. The post Build a Raspberry Pi Pico route finder using Dijkstra’s algorithm app…"
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=138971",
+      "title": "How our tiny computers learnt to count sheep (and spot hi-vis jackets)",
+      "link": "https://www.raspberrypi.com/news/how-our-tiny-computers-learnt-to-count-sheep-and-spot-hi-vis-jackets/",
+      "published": "2026-08-04T16:11:24+00:00",
+      "published_raw": "Tue, 04 Aug 2026 16:11:24 +0000",
+      "summary": "Exploring the rise of artificial intelligence and how Raspberry Pi is making an impact at the edge. The post How our tiny computers learnt to count sheep (and spot hi-vis jackets) appeared first on Ra…"
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=138907",
+      "title": "ChronoWatch X2040",
+      "link": "https://www.raspberrypi.com/news/chronowatch-x2040/",
+      "published": "2026-07-30T17:38:50+00:00",
+      "published_raw": "Thu, 30 Jul 2026 17:38:50 +0000",
+      "summary": "This smart-looking watch based on RP2040 tells the time without unnecessary distractions. The post ChronoWatch X2040 appeared first on Raspberry Pi ."
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=138651",
+      "title": "Vivariums, drone shows, and TV kits, all powered by Raspberry Pi",
+      "link": "https://www.raspberrypi.com/news/vivariums-drone-shows-and-tv-kits-all-powered-by-raspberry-pi/",
+      "published": "2026-07-27T13:33:43+00:00",
+      "published_raw": "Mon, 27 Jul 2026 13:33:43 +0000",
+      "summary": "Here are some highlights from the latest batch of third-party products to join the Powered by Raspberry Pi roster. The post Vivariums, drone shows, and TV kits, all powered by Raspberry Pi appeared fi…"
+    },
+    {
+      "manufacturer": "Raspberry Pi",
+      "id": "https://www.raspberrypi.com/?p=138625",
+      "title": "A new 10″ Raspberry Pi Touch Display 2, available now at $80",
+      "link": "https://www.raspberrypi.com/news/a-new-10-raspberry-pi-touch-display-2-available-now-at-80/",
+      "published": "2026-07-22T05:57:52+00:00",
+      "published_raw": "Wed, 22 Jul 2026 05:57:52 +0000",
+      "summary": "Our latest multi-touch display brings a bigger screen and higher resolution to the Touch Display family. The post A new 10″ Raspberry Pi Touch Display 2, available now at $80 appeared first on Raspber…"
+    },
+    {
+      "manufacturer": "RatRig / RatOS",
+      "id": "https://os.ratrig.com/blog/breaking-changes-in-v2-1-1",
+      "title": "Breaking changes in RatOS v2.1.1",
+      "link": "https://os.ratrig.com/blog/breaking-changes-in-v2-1-1",
+      "published": "2026-06-25T00:00:00+00:00",
+      "published_raw": "Thu, 25 Jun 2026 00:00:00 GMT",
+      "summary": "RatOS minor update v2.1.1 will be released soon, and includes some hardware pin configuration changes that may affect some machines."
+    },
+    {
+      "manufacturer": "RatRig / RatOS",
+      "id": "https://os.ratrig.com/blog/crowsnest-v4-breaking-changes-manual-upgrade",
+      "title": "Crowsnest v4 contains breaking changes and requires manual steps to upgrade.",
+      "link": "https://os.ratrig.com/blog/crowsnest-v4-breaking-changes-manual-upgrade",
+      "published": "2023-05-23T00:00:00+00:00",
+      "published_raw": "Tue, 23 May 2023 00:00:00 GMT",
+      "summary": "Crowsnest just recently made huge changes to the way it works. This is great news, because it should be much faster and more reliable. Unfortunately, it also means that there are major breaking change…"
+    },
+    {
+      "manufacturer": "RatRig / RatOS",
+      "id": "https://os.ratrig.com/blog/ratos-v2-0-0-released",
+      "title": "RatOS V2.0.0 Released!",
+      "link": "https://os.ratrig.com/blog/ratos-v2-0-0-released",
+      "published": "2023-03-04T00:00:00+00:00",
+      "published_raw": "Sat, 04 Mar 2023 00:00:00 GMT",
+      "summary": "RatOS V2.0.0 is now released!"
+    },
+    {
+      "manufacturer": "RatRig / RatOS",
+      "id": "https://os.ratrig.com/blog/no-you-dont-want-to-use-can",
+      "title": "No, you don't want to use CAN",
+      "link": "https://os.ratrig.com/blog/no-you-dont-want-to-use-can",
+      "published": "2022-11-08T00:00:00+00:00",
+      "published_raw": "Tue, 08 Nov 2022 00:00:00 GMT",
+      "summary": "No, you don't want to use CAN."
+    },
+    {
+      "manufacturer": "RatRig / RatOS",
+      "id": "https://os.ratrig.com/blog/moonraker-config-changes",
+      "title": "Moonraker is now safe to update",
+      "link": "https://os.ratrig.com/blog/moonraker-config-changes",
+      "published": "2022-10-17T00:00:00+00:00",
+      "published_raw": "Mon, 17 Oct 2022 00:00:00 GMT",
+      "summary": "Major moonraker config and file changes"
+    },
+    {
+      "manufacturer": "RatRig / RatOS",
+      "id": "https://os.ratrig.com/blog/ratos-v1-1-released",
+      "title": "RatOS V1.1 Released!",
+      "link": "https://os.ratrig.com/blog/ratos-v1-1-released",
+      "published": "2022-01-08T00:00:00+00:00",
+      "published_raw": "Sat, 08 Jan 2022 00:00:00 GMT",
+      "summary": "RatOS V1.1 is now released!"
+    },
+    {
+      "manufacturer": "RatRig / RatOS",
+      "id": "https://os.ratrig.com/blog/ratos-v1-0-released",
+      "title": "RatOS V1.0 Released!",
+      "link": "https://os.ratrig.com/blog/ratos-v1-0-released",
+      "published": "2021-11-14T00:00:00+00:00",
+      "published_raw": "Sun, 14 Nov 2021 00:00:00 GMT",
+      "summary": "RatOS V1.0 is here!"
+    }
+  ]
+}
