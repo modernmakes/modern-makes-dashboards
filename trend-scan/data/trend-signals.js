@@ -1,9 +1,9 @@
 window.TREND_SIGNALS = {
-  "generated_at": "2026-08-28T18:46:18.679232+00:00",
-  "date": "2026-08-28",
+  "generated_at": "2026-08-29T12:43:39.902214+00:00",
+  "date": "2026-08-29",
   "mode": "baseline-spike",
   "baseline_days": 30,
-  "history_days_available": 33,
+  "history_days_available": 34,
   "signal_count": 14,
   "signals": [
     {
@@ -16,9 +16,9 @@ window.TREND_SIGNALS = {
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Bambu Lab · published 2026-08-26 · 2d ago",
+      "metric": "Bambu Lab · published 2026-08-26 · 3d ago",
       "link": "https://blog.bambulab.com/diy-summer-sandals-by-sofia-rousinovich/",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "rank": 1
     },
     {
@@ -27,13 +27,13 @@ window.TREND_SIGNALS = {
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "Professionally, he designs molds for stamping parts produced in millions. He became famous for a toy printed one at a time.",
-      "score": 100.0,
+      "score": 95.7,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Bambu Lab · published 2026-08-20 · 7d ago",
+      "metric": "Bambu Lab · published 2026-08-20 · 8d ago",
       "link": "https://blog.bambulab.com/yun-goo-the-man-behind-the-viral-helixcore-spinner/",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "rank": 2
     },
     {
@@ -42,13 +42,13 @@ window.TREND_SIGNALS = {
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "A lot is happening with INDX this week. We’ve started shipping the first batch of INDX conversion kits. And starting today, you can order a complete Prusa CORE One+ (Gen 2) with Bondtech INDX, either…",
-      "score": 95.7,
+      "score": 91.3,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Prusa Research · published 2026-08-20 · 8d ago",
+      "metric": "Prusa Research · published 2026-08-20 · 9d ago",
       "link": "https://blog.prusa3d.com/prusa-core-one-gen-2-indx-shipping-has-started-complete-printers-open-for-orders_137623/",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "rank": 3
     },
     {
@@ -57,29 +57,14 @@ window.TREND_SIGNALS = {
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "Provision Raspberry Pi Compute Module 5 at scale with the Raspberry Pi Compute Module 5 Programming Jig, on sale now. The post Introducing the Raspberry Pi Compute Module 5 Programming Jig appeared fi…",
-      "score": 91.3,
+      "score": 87.0,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Raspberry Pi · published 2026-08-19 · 9d ago",
+      "metric": "Raspberry Pi · published 2026-08-19 · 10d ago",
       "link": "https://www.raspberrypi.com/news/introducing-the-raspberry-pi-compute-module-5-programming-jig/",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "rank": 4
-    },
-    {
-      "key": "github-prusaslicer-version-2.9.6",
-      "topic": "prusa3d/PrusaSlicer version_2.9.6: PrusaSlicer 2.9.6",
-      "source": "github",
-      "category": "Slicer",
-      "detail": "# ![PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/raw/master/resources/icons/PrusaSlicer_128px.png) \r\n\r\nThis is final release of PrusaSlicer 2.9.6, introducing ColorMix feature. Please, read cha…",
-      "score": 73.3,
-      "spike": 1.94,
-      "basis": "spike",
-      "engagement": 9251,
-      "metric": "9251 stars · 5711 open issues/PRs · version_2.9.6 · +5.0 stars/day",
-      "link": "https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.9.6",
-      "date": "2026-08-28",
-      "rank": 5
     },
     {
       "key": "manufacturer-prusa-research-better-prints-easier-use-prusa-xl-core-one-l-and-core-one-ge",
@@ -87,44 +72,14 @@ window.TREND_SIGNALS = {
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "This summer, we are refreshing the entire lineup of our 3D printers. The new Prusa XL+, CORE One+ (Gen 2), and CORE One L+ bring cleaner print starts, better-looking surfaces, easier operation, and im…",
-      "score": 65.2,
+      "score": 60.9,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Prusa Research · published 2026-08-13 · 15d ago",
+      "metric": "Prusa Research · published 2026-08-13 · 16d ago",
       "link": "https://blog.prusa3d.com/better-prints-easier-use-prusa-xl-core-one-l-and-core-one-gen-2-our-big-product-update_137539/",
-      "date": "2026-08-28",
-      "rank": 6
-    },
-    {
-      "key": "github-bambustudio-v02.08.02.61",
-      "topic": "bambulab/BambuStudio v02.08.02.61: 2.8.2.61 Public Release",
-      "source": "github",
-      "category": "Slicer",
-      "detail": "Bambu Studio 2.8.2.61 is a minor optimization update based on the previous version. It fixes several known issues and improves the experience of certain features.\r\n\r\nYou can download the Flathub versi…",
-      "score": 56.2,
-      "spike": -0.31,
-      "basis": "spike",
-      "engagement": 4950,
-      "metric": "4950 stars · 7640 open issues/PRs · v02.08.02.61 · +3.0 stars/day",
-      "link": "https://github.com/bambulab/BambuStudio/releases/tag/v02.08.02.61",
-      "date": "2026-08-28",
-      "rank": 7
-    },
-    {
-      "key": "github-cura-5.13.0",
-      "topic": "Ultimaker/Cura 5.13.0: UltiMaker Cura 5.13.0",
-      "source": "github",
-      "category": "Slicer",
-      "detail": "<H2>New features and improvements:</H2>\r\n<img width=\"1280\" height=\"720\" alt=\"0\" src=\"https://github.com/user-attachments/assets/52305653-4fab-4ea5-85e0-ea960096d923\" />\r\n\r\n- Added the new UltiMaker Fa…",
-      "score": 52.4,
-      "spike": 0.2,
-      "basis": "spike",
-      "engagement": 7025,
-      "metric": "7025 stars · 3526 open issues/PRs · 5.13.0 · +1.0 stars/day",
-      "link": "https://github.com/Ultimaker/Cura/releases/tag/5.13.0",
-      "date": "2026-08-28",
-      "rank": 8
+      "date": "2026-08-29",
+      "rank": 5
     },
     {
       "key": "manufacturer-e3d-the-difference-between-high-flow-and-high-speed-in-3d-printi",
@@ -138,8 +93,8 @@ window.TREND_SIGNALS = {
       "engagement": 0,
       "metric": "E3D · published 2026-08-10 · 18d ago",
       "link": "https://e3d-online.com/blogs/news/why-high-flow-printing-doesnt-always-mean-high-speed-printing",
-      "date": "2026-08-28",
-      "rank": 9
+      "date": "2026-08-29",
+      "rank": 6
     },
     {
       "key": "github-superslicer-2.5.59.13",
@@ -147,14 +102,14 @@ window.TREND_SIGNALS = {
       "source": "github",
       "category": "Slicer",
       "detail": "A batch of little fixes, the most important one is about fixing seams.\r\n\r\n## bugfixes\r\n * fix wipe tower first layer speeed error.\r\n * fix synch problem for status reporting.\r\n * Trigger change in pro…",
-      "score": 50.8,
-      "spike": 0.06,
+      "score": 50.9,
+      "spike": 0.08,
       "basis": "spike",
       "engagement": 4315,
       "metric": "4315 stars · 1934 open issues/PRs · 2.5.59.13 · +0.0 stars/day",
       "link": "https://github.com/supermerill/SuperSlicer/releases/tag/2.5.59.13",
-      "date": "2026-08-28",
-      "rank": 10
+      "date": "2026-08-29",
+      "rank": 7
     },
     {
       "key": "github-v-core-3-1.0.4",
@@ -168,38 +123,8 @@ window.TREND_SIGNALS = {
       "engagement": 355,
       "metric": "355 stars · 29 open issues/PRs · 1.0.4 · +0.0 stars/day",
       "link": "https://github.com/Rat-Rig/V-core-3/releases/tag/1.0.4",
-      "date": "2026-08-28",
-      "rank": 11
-    },
-    {
-      "key": "github-reprapfirmware-3.6.3",
-      "topic": "Duet3D/RepRapFirmware 3.6.3: Release 3.6.3",
-      "source": "github",
-      "category": "Firmware",
-      "detail": "This release fixes bugs in the previous 3.6.x firmwares. See the change list at https://github.com/Duet3D/RepRapFirmware/wiki/Changelog-RRF-3.x#reprapfirmware-363.\r\n\r\nAlso included in this release are…",
-      "score": 45.8,
-      "spike": -0.35,
-      "basis": "spike",
-      "engagement": 1046,
-      "metric": "1046 stars · 228 open issues/PRs · 3.6.3 · +0.0 stars/day",
-      "link": "https://github.com/Duet3D/RepRapFirmware/releases/tag/3.6.3",
-      "date": "2026-08-28",
-      "rank": 12
-    },
-    {
-      "key": "github-orcaslicer-v2.4.2",
-      "topic": "OrcaSlicer/OrcaSlicer v2.4.2: OrcaSlicer v2.4.2 Official Release",
-      "source": "github",
-      "category": "Slicer",
-      "detail": "# What's Changed\r\n\r\nThis is the OrcaSlicer V2.4.2 release — a maintenance update on top of 2.4.1, focused on making profiles, cloud sync, and printer connectivity more dependable. Upgrading from an ol…",
-      "score": 39.4,
-      "spike": -0.89,
-      "basis": "spike",
-      "engagement": 15512,
-      "metric": "15512 stars · 2610 open issues/PRs · v2.4.2 · +6.0 stars/day",
-      "link": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.4.2",
-      "date": "2026-08-28",
-      "rank": 13
+      "date": "2026-08-29",
+      "rank": 8
     },
     {
       "key": "github-voron-2-v2.4r2",
@@ -207,17 +132,344 @@ window.TREND_SIGNALS = {
       "source": "github",
       "category": "Printer Design",
       "detail": "### Release Notes\r\n\r\nThis release contains QoL updates and improvements to the official release of the VORON2.4 3d printer.\r\nFor more detailed information about V2.4 itself, please refer to the offici…",
-      "score": 38.4,
-      "spike": -0.96,
+      "score": 46.4,
+      "spike": -0.3,
       "basis": "spike",
-      "engagement": 4511,
-      "metric": "4511 stars · 36 open issues/PRs · V2.4r2 · +0.0 stars/day",
+      "engagement": 4512,
+      "metric": "4512 stars · 36 open issues/PRs · V2.4r2 · +1.0 stars/day",
       "link": "https://github.com/VoronDesign/Voron-2/releases/tag/V2.4r2",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
+      "rank": 9
+    },
+    {
+      "key": "github-reprapfirmware-3.6.3",
+      "topic": "Duet3D/RepRapFirmware 3.6.3: Release 3.6.3",
+      "source": "github",
+      "category": "Firmware",
+      "detail": "This release fixes bugs in the previous 3.6.x firmwares. See the change list at https://github.com/Duet3D/RepRapFirmware/wiki/Changelog-RRF-3.x#reprapfirmware-363.\r\n\r\nAlso included in this release are…",
+      "score": 46.0,
+      "spike": -0.33,
+      "basis": "spike",
+      "engagement": 1046,
+      "metric": "1046 stars · 228 open issues/PRs · 3.6.3 · +0.0 stars/day",
+      "link": "https://github.com/Duet3D/RepRapFirmware/releases/tag/3.6.3",
+      "date": "2026-08-29",
+      "rank": 10
+    },
+    {
+      "key": "github-bambustudio-v02.08.02.61",
+      "topic": "bambulab/BambuStudio v02.08.02.61: 2.8.2.61 Public Release",
+      "source": "github",
+      "category": "Slicer",
+      "detail": "Bambu Studio 2.8.2.61 is a minor optimization update based on the previous version. It fixes several known issues and improves the experience of certain features.\r\n\r\nYou can download the Flathub versi…",
+      "score": 41.2,
+      "spike": -0.74,
+      "basis": "spike",
+      "engagement": 4952,
+      "metric": "4952 stars · 7643 open issues/PRs · v02.08.02.61 · +2.0 stars/day",
+      "link": "https://github.com/bambulab/BambuStudio/releases/tag/v02.08.02.61",
+      "date": "2026-08-29",
+      "rank": 11
+    },
+    {
+      "key": "github-cura-5.13.0",
+      "topic": "Ultimaker/Cura 5.13.0: UltiMaker Cura 5.13.0",
+      "source": "github",
+      "category": "Slicer",
+      "detail": "<H2>New features and improvements:</H2>\r\n<img width=\"1280\" height=\"720\" alt=\"0\" src=\"https://github.com/user-attachments/assets/52305653-4fab-4ea5-85e0-ea960096d923\" />\r\n\r\n- Added the new UltiMaker Fa…",
+      "score": 41.1,
+      "spike": -0.74,
+      "basis": "spike",
+      "engagement": 7025,
+      "metric": "7025 stars · 3527 open issues/PRs · 5.13.0 · +0.0 stars/day",
+      "link": "https://github.com/Ultimaker/Cura/releases/tag/5.13.0",
+      "date": "2026-08-29",
+      "rank": 12
+    },
+    {
+      "key": "github-prusaslicer-version-2.9.6",
+      "topic": "prusa3d/PrusaSlicer version_2.9.6: PrusaSlicer 2.9.6",
+      "source": "github",
+      "category": "Slicer",
+      "detail": "# ![PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/raw/master/resources/icons/PrusaSlicer_128px.png) \r\n\r\nThis is final release of PrusaSlicer 2.9.6, introducing ColorMix feature. Please, read cha…",
+      "score": 39.6,
+      "spike": -0.86,
+      "basis": "spike",
+      "engagement": 9251,
+      "metric": "9251 stars · 5715 open issues/PRs · version_2.9.6 · +0.0 stars/day",
+      "link": "https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.9.6",
+      "date": "2026-08-29",
+      "rank": 13
+    },
+    {
+      "key": "github-orcaslicer-v2.4.2",
+      "topic": "OrcaSlicer/OrcaSlicer v2.4.2: OrcaSlicer v2.4.2 Official Release",
+      "source": "github",
+      "category": "Slicer",
+      "detail": "# What's Changed\r\n\r\nThis is the OrcaSlicer V2.4.2 release — a maintenance update on top of 2.4.1, focused on making profiles, cloud sync, and printer connectivity more dependable. Upgrading from an ol…",
+      "score": 27.5,
+      "spike": -1.88,
+      "basis": "spike",
+      "engagement": 15515,
+      "metric": "15515 stars · 2620 open issues/PRs · v2.4.2 · +3.0 stars/day",
+      "link": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.4.2",
+      "date": "2026-08-29",
       "rank": 14
     }
   ],
   "recent_threads": [
+    {
+      "title": "Extrusion problems P1S",
+      "subreddit": "BambuLab",
+      "author": "/u/Lower-Environment-43",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1lkdg/extrusion_problems_p1s/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "App for creating fun 3D terrain maps **hypsos3d.com**",
+      "subreddit": "3Dprinting",
+      "author": "/u/AwaySignificance1169",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1lcmd/app_for_creating_fun_3d_terrain_maps_hypsos3dcom/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Build up on H2 cable chain?",
+      "subreddit": "BambuLab",
+      "author": "/u/sleepermjs",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1l3kr/build_up_on_h2_cable_chain/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Help with top layers",
+      "subreddit": "BambuLab",
+      "author": "/u/dogwoodfire",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1krc1/help_with_top_layers/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Under extrusion only on one side",
+      "subreddit": "BambuLab",
+      "author": "/u/StellarStacker",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1kna4/under_extrusion_only_on_one_side/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Should a new X2D fling bit of filament on the build plate just before the print?",
+      "subreddit": "BambuLab",
+      "author": "/u/Healthy_District_745",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1kj4t/should_a_new_x2d_fling_bit_of_filament_on_the/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "The most beautiful thing I have ever seen",
+      "subreddit": "3Dprinting",
+      "author": "/u/Magos_Skylie",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1khiu/the_most_beautiful_thing_i_have_ever_seen/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Any ideas why this is happening?",
+      "subreddit": "BambuLab",
+      "author": "/u/NLI_Arthour",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1kgmy/any_ideas_why_this_is_happening/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Hand-cranked drum – Traditional Vietnamese Mid-Autumn Festival Toy",
+      "subreddit": "BambuLab",
+      "author": "/u/anhduy2508",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1kfmz/handcranked_drum_traditional_vietnamese_midautumn/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "The one time I decided to turn the printer on unattended",
+      "subreddit": "3Dprinting",
+      "author": "/u/BH2K6",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1kdfb/the_one_time_i_decided_to_turn_the_printer_on/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Fallen in love with Support for PLA as an interface material",
+      "subreddit": "3Dprinting",
+      "author": "/u/HiekkaNinja2",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1k7j3/fallen_in_love_with_support_for_pla_as_an/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "My Star Wars droids",
+      "subreddit": "3Dprinting",
+      "author": "/u/X345K",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1k5ck/my_star_wars_droids/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "A1 layer shift",
+      "subreddit": "BambuLab",
+      "author": "/u/Such_Garlic6131",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1k437/a1_layer_shift/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Why does my TPU print gets worse the higher it goes?",
+      "subreddit": "3Dprinting",
+      "author": "/u/Impressive_Meal9955",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1iup4/why_does_my_tpu_print_gets_worse_the_higher_it/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "DNA whiteboard marker holder",
+      "subreddit": "3Dprinting",
+      "author": "/u/Locutus123456",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1il7f/dna_whiteboard_marker_holder/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Made a keyboard support for my phone. I kept seeing them online. It was actually the first time making something in CAD took just as long as printing it. All parts were printed flat with no supports, in PETG.",
+      "subreddit": "3Dprinting",
+      "author": "/u/PatrikuSan",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1ikli/made_a_keyboard_support_for_my_phone_i_kept/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Two very different armor builds I’ve been working on in my workshop",
+      "subreddit": "3Dprinting",
+      "author": "/u/Jon5579",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1ijbw/two_very_different_armor_builds_ive_been_working/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "What’s one 3D printing upgrade you genuinely can’t live without now?",
+      "subreddit": "3Dprinting",
+      "author": "/u/Fit-Horse-7059",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1hcow/whats_one_3d_printing_upgrade_you_genuinely_cant/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Japandi Toothbrush holder Design 2",
+      "subreddit": "BambuLab",
+      "author": "/u/Brexly",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1gos5/japandi_toothbrush_holder_design_2/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "3d print Pendulum Wall Clock",
+      "subreddit": "BambuLab",
+      "author": "/u/Niyoki007",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1g2dg/3d_print_pendulum_wall_clock/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "JB Hi-Fi has 3D printed Bambu machine models",
+      "subreddit": "BambuLab",
+      "author": "/u/Doctor429",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1fkva/jb_hifi_has_3d_printed_bambu_machine_models/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Overengineered 4th gen Pokédex Card Wallet by me",
+      "subreddit": "3Dprinting",
+      "author": "/u/AnzuArden",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1f7ee/overengineered_4th_gen_pokédex_card_wallet_by_me/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Really puts it into perspective",
+      "subreddit": "3Dprinting",
+      "author": "/u/Jkoskie1214",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1cmms/really_puts_it_into_perspective/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "I printed an alien",
+      "subreddit": "3Dprinting",
+      "author": "/u/peachprincess98",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w1b1qr/i_printed_an_alien/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "I am dumb",
+      "subreddit": "BambuLab",
+      "author": "/u/PersonalityNuke",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w1811t/i_am_dumb/",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "Standing Benchy",
+      "subreddit": "3Dprinting",
+      "author": "/u/Bob42Mcmurdo",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w15lra/standing_benchy/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "This wood PLA birdhouse has lasted 3 years in the elements with no signs of degradation. 3 walls, 30% gyroid. Maybe the wood pulp provides a level of UV resistance?",
+      "subreddit": "3Dprinting",
+      "author": "/u/Electronic-Image8673",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w14zsq/this_wood_pla_birdhouse_has_lasted_3_years_in_the/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Hellboy I sculpted in Nomad Sculpt and printed with P2S, 0,2mm nozzle",
+      "subreddit": "BambuLab",
+      "author": "/u/NekudSNEK",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w14zia/hellboy_i_sculpted_in_nomad_sculpt_and_printed/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "How to fix this ?",
+      "subreddit": "BambuLab",
+      "author": "/u/Kurthemon",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w14gz6/how_to_fix_this/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "How dumb is this idea?",
+      "subreddit": "3Dprinting",
+      "author": "/u/NuIIPointer",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w13vef/how_dumb_is_this_idea/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "In Progess Rate from 1 to 10",
+      "subreddit": "3Dprinting",
+      "author": "/u/RelativeNo4808",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w13qv6/in_progess_rate_from_1_to_10/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "The Techno-Trousers",
+      "subreddit": "BambuLab",
+      "author": "/u/DrKronoglopolos",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w136fs/the_technotrousers/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "I can’t help but collect these because I know I’ll think of a use…",
+      "subreddit": "3Dprinting",
+      "author": "/u/mmm-pistol-whip",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w126gf/i_cant_help_but_collect_these_because_i_know_ill/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "New to 3D printing and looking for advice on a project.",
+      "subreddit": "3Dprinting",
+      "author": "/u/Temporary-Sound-6810",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w10mbf/new_to_3d_printing_and_looking_for_advice_on_a/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "My dog’s stick collection needed a proper library",
+      "subreddit": "3Dprinting",
+      "author": "/u/jetsonfi",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0zscw/my_dogs_stick_collection_needed_a_proper_library/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "My dog’s stick collection needed a proper library",
+      "subreddit": "BambuLab",
+      "author": "/u/jetsonfi",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0zrgk/my_dogs_stick_collection_needed_a_proper_library/",
+      "date": "2026-08-28"
+    },
     {
       "title": "Something useful for your bathroom",
       "subreddit": "3Dprinting",
@@ -226,31 +478,24 @@ window.TREND_SIGNALS = {
       "date": "2026-08-28"
     },
     {
-      "title": "Published a second model in a series, this time for the 5\" Knipex Cobra Pliers!",
-      "subreddit": "3Dprinting",
-      "author": "/u/EngineerBits",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0yjoa/published_a_second_model_in_a_series_this_time/",
+      "title": "Your girlfriend/wife will hate this door hanger.",
+      "subreddit": "BambuLab",
+      "author": "/u/EconomistMiserable32",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0yhon/your_girlfriendwife_will_hate_this_door_hanger/",
       "date": "2026-08-28"
     },
     {
-      "title": "I love absolutely tiny functional prints!",
-      "subreddit": "3Dprinting",
-      "author": "/u/oxabz",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0uxil/i_love_absolutely_tiny_functional_prints/",
+      "title": "How to print super details with 0.2 nozzle?",
+      "subreddit": "BambuLab",
+      "author": "/u/VespidX",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0vafw/how_to_print_super_details_with_02_nozzle/",
       "date": "2026-08-28"
     },
     {
-      "title": "Low Poly Mustang GTD",
-      "subreddit": "3Dprinting",
-      "author": "/u/TheTurtleVirus",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0ucl0/low_poly_mustang_gtd/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Just finished this borderless 3D wall art (100 modular pieces). Dual-color shift filament with glowing green crystals in the center. Printed on my IDEX machine.",
-      "subreddit": "3Dprinting",
-      "author": "/u/FirstwatchMuc",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0u8bd/just_finished_this_borderless_3d_wall_art_100/",
+      "title": "Brick Man The Source",
+      "subreddit": "BambuLab",
+      "author": "/u/DK_Design95",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0ut1x/brick_man_the_source/",
       "date": "2026-08-28"
     },
     {
@@ -261,52 +506,24 @@ window.TREND_SIGNALS = {
       "date": "2026-08-28"
     },
     {
-      "title": "Kept striking out at McDonalds, so I printed my own!",
-      "subreddit": "3Dprinting",
-      "author": "/u/CityWizzard",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0rjtj/kept_striking_out_at_mcdonalds_so_i_printed_my_own/",
+      "title": "Print in vase mode wobbles",
+      "subreddit": "BambuLab",
+      "author": "/u/Ralphie40",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0rklj/print_in_vase_mode_wobbles/",
       "date": "2026-08-28"
     },
     {
-      "title": "STOPFLOCK FOR 3D PRINTERS! The CA AB2047 bill is still under consideration in the Senate. Please, if you are from California, take action by calling your senators using the instructions below, and also ask your friends to do the same. This is very important!",
-      "subreddit": "3Dprinting",
-      "author": "/u/Ololomarine",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0qamp/stopflock_for_3d_printers_the_ca_ab2047_bill_is/",
+      "title": "Unpopular opinion: The X2D’s Bowden aux extruder is a god-tier engineering choice. Stop complaining that it can't print your PLA dragons",
+      "subreddit": "BambuLab",
+      "author": "/u/Alpherggg",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0r71g/unpopular_opinion_the_x2ds_bowden_aux_extruder_is/",
       "date": "2026-08-28"
     },
     {
-      "title": "I create and print Inception Blending City Scene - in Paris location around Rue Bouchut and Rue Pérignon",
-      "subreddit": "3Dprinting",
-      "author": "/u/Mithreed",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0o3de/i_create_and_print_inception_blending_city_scene/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Got it moving! [CoreXY Ender 5]",
-      "subreddit": "3Dprinting",
-      "author": "/u/Pawel_likes_guns",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0nvdg/got_it_moving_corexy_ender_5/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "CraneBOT V2",
-      "subreddit": "3Dprinting",
-      "author": "/u/AccurateProcedure830",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0nbkz/cranebot_v2/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "What’s your “I’m not printing that” rule?",
-      "subreddit": "3Dprinting",
-      "author": "/u/Agreeable_Craft_4305",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0mpkk/whats_your_im_not_printing_that_rule/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "My first benchy lost in a sea of glass 1800mm x 1200mm x 1600mm",
-      "subreddit": "3Dprinting",
-      "author": "/u/rdahm",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0lp17/my_first_benchy_lost_in_a_sea_of_glass_1800mm_x/",
+      "title": "My H2C's first big job: a tactile terrain map for blind users, designed by a blind maker (me)",
+      "subreddit": "BambuLab",
+      "author": "/u/Mrblindguardian",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0lmvb/my_h2cs_first_big_job_a_tactile_terrain_map_for/",
       "date": "2026-08-28"
     },
     {
@@ -317,67 +534,11 @@ window.TREND_SIGNALS = {
       "date": "2026-08-28"
     },
     {
-      "title": "ASA CF - after/before drying and tweaking. I don't know which factor contributed the most to the quality improvement. Dried it for 16hours and changed extrusion rate from 1.05 to 0.88",
-      "subreddit": "3Dprinting",
-      "author": "/u/Kronocide",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0ksx9/asa_cf_afterbefore_drying_and_tweaking_i_dont/",
+      "title": "Failed experiment: wireless LEDs in a 3D printed die",
+      "subreddit": "BambuLab",
+      "author": "/u/Bg3d_",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1w0jklw/failed_experiment_wireless_leds_in_a_3d_printed/",
       "date": "2026-08-28"
-    },
-    {
-      "title": "New study discover a new infil that is three times stronger than cubic",
-      "subreddit": "3Dprinting",
-      "author": "/u/Thibs_42",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0h0y9/new_study_discover_a_new_infil_that_is_three/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Can't stop printing 3 foot aliens for no reason",
-      "subreddit": "3Dprinting",
-      "author": "/u/TenderizeYourAngus",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0cqux/cant_stop_printing_3_foot_aliens_for_no_reason/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "How do I know when I’ve sanded deep enough for a 120 grit pass on 0.4mm layer PLA? I’d like to advance to the next grit.",
-      "subreddit": "3Dprinting",
-      "author": "/u/Charming-Shelter8873",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0akj7/how_do_i_know_when_ive_sanded_deep_enough_for_a/",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "4 days later, and I discovered Creep 🙃",
-      "subreddit": "3Dprinting",
-      "author": "/u/audiblecoco",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0894h/4_days_later_and_i_discovered_creep/",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Is it a good result for PETG Translucent",
-      "subreddit": "3Dprinting",
-      "author": "/u/Ready-Koala6552",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w07vp8/is_it_a_good_result_for_petg_translucent/",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Couldn't find one, so I did it myself",
-      "subreddit": "3Dprinting",
-      "author": "/u/CosmicThief",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w05hiu/couldnt_find_one_so_i_did_it_myself/",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "Alright I'll bite the bullet, is this an actual stl?",
-      "subreddit": "3Dprinting",
-      "author": "/u/Ok_Week_9768",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w0019e/alright_ill_bite_the_bullet_is_this_an_actual_stl/",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "How long until someone makes a 3d printable version?",
-      "subreddit": "3Dprinting",
-      "author": "/u/IronLover64",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1vzydwq/how_long_until_someone_makes_a_3d_printable/",
-      "date": "2026-08-27"
     },
     {
       "title": "🎁 [Sovol Giveaway] What's Your Biggest 3D Printing Pet Peeve?",
@@ -385,6 +546,20 @@ window.TREND_SIGNALS = {
       "author": "/u/Comgrow3D",
       "link": "https://www.reddit.com/r/3Dprinting/comments/1vtesk9/sovol_giveaway_whats_your_biggest_3d_printing_pet/",
       "date": "2026-08-20"
+    },
+    {
+      "title": "Stock up filaments for up to 50% off, save more on printers and accessories, and new 30-day return window are live now!",
+      "subreddit": "BambuLab",
+      "author": "/u/BambuLab",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1vqqbkx/stock_up_filaments_for_up_to_50_off_save_more_on/",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Bambu Lab R1: a new Ray of making, coming September",
+      "subreddit": "BambuLab",
+      "author": "/u/BambuLab",
+      "link": "https://www.reddit.com/r/BambuLab/comments/1vna2wv/bambu_lab_r1_a_new_ray_of_making_coming_september/",
+      "date": "2026-08-13"
     },
     {
       "title": "Purchase Advice Megathread - August 2026",
