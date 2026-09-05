@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T11:22:53.358682+00:00",
-  "date": "2026-09-04",
+  "generated_at": "2026-09-05T10:40:08.359105+00:00",
+  "date": "2026-09-05",
   "mode": "baseline-spike",
   "baseline_days": 30,
-  "history_days_available": 40,
+  "history_days_available": 41,
   "signal_count": 18,
   "signals": [
     {
@@ -16,9 +16,9 @@
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Bambu Lab · published 2026-09-02 · 2d ago",
+      "metric": "Bambu Lab · published 2026-09-02 · 3d ago",
       "link": "https://blog.bambulab.com/one-year-on-strengthening-iot-security-through-global-certifications-and-community-collaboration/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 1
     },
     {
@@ -31,9 +31,9 @@
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Bambu Lab · published 2026-09-01 · 2d ago",
+      "metric": "Bambu Lab · published 2026-09-01 · 3d ago",
       "link": "https://blog.bambulab.com/meet-the-2026-bambu-lab-school-ambassadors/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 2
     },
     {
@@ -46,9 +46,9 @@
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Prusa Research · published 2026-09-03 · 0d ago",
+      "metric": "Prusa Research · published 2026-09-03 · 1d ago",
       "link": "https://blog.prusa3d.com/back-to-school-2026-deals-are-here_137792/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 3
     },
     {
@@ -61,9 +61,9 @@
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Prusa Research · published 2026-09-01 · 3d ago",
+      "metric": "Prusa Research · published 2026-09-01 · 4d ago",
       "link": "https://blog.prusa3d.com/prusaslicer-3-0-preview-built-for-the-future-of-3d-printing_137672/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 4
     },
     {
@@ -72,44 +72,29 @@
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "Refusing to let war derail her passion, a Kyiv-based designer combines flexible TPU and supportless 3D printing to reimagine sustainable footwear.",
-      "score": 91.3,
+      "score": 87.0,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Bambu Lab · published 2026-08-26 · 9d ago",
+      "metric": "Bambu Lab · published 2026-08-26 · 10d ago",
       "link": "https://blog.bambulab.com/diy-summer-sandals-by-sofia-rousinovich/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 5
     },
     {
-      "key": "github-reprapfirmware-3.6.3",
-      "topic": "Duet3D/RepRapFirmware 3.6.3: Release 3.6.3",
-      "source": "github",
-      "category": "Firmware",
-      "detail": "This release fixes bugs in the previous 3.6.x firmwares. See the change list at https://github.com/Duet3D/RepRapFirmware/wiki/Changelog-RRF-3.x#reprapfirmware-363.\r\n\r\nAlso included in this release are…",
-      "score": 86.0,
-      "spike": 3.0,
-      "basis": "spike",
-      "engagement": 1048,
-      "metric": "1048 stars · 225 open issues/PRs · 3.6.3 · +1.0 stars/day",
-      "link": "https://github.com/Duet3D/RepRapFirmware/releases/tag/3.6.3",
-      "date": "2026-09-04",
-      "rank": 6
-    },
-    {
-      "key": "github-prusaslicer-version-2.9.6",
-      "topic": "prusa3d/PrusaSlicer version_2.9.6: PrusaSlicer 2.9.6",
+      "key": "github-superslicer-2.5.59.13",
+      "topic": "supermerill/SuperSlicer 2.5.59.13: 2.5.59.12-bis edition",
       "source": "github",
       "category": "Slicer",
-      "detail": "# ![PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/raw/master/resources/icons/PrusaSlicer_128px.png) \r\n\r\nThis is final release of PrusaSlicer 2.9.6, introducing ColorMix feature. Please, read cha…",
-      "score": 69.6,
-      "spike": 1.64,
+      "detail": "A batch of little fixes, the most important one is about fixing seams.\r\n\r\n## bugfixes\r\n * fix wipe tower first layer speeed error.\r\n * fix synch problem for status reporting.\r\n * Trigger change in pro…",
+      "score": 68.9,
+      "spike": 1.58,
       "basis": "spike",
-      "engagement": 9297,
-      "metric": "9297 stars · 5676 open issues/PRs · version_2.9.6 · +10.0 stars/day",
-      "link": "https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.9.6",
-      "date": "2026-09-04",
-      "rank": 7
+      "engagement": 4316,
+      "metric": "4316 stars · 1934 open issues/PRs · 2.5.59.13 · +1.0 stars/day",
+      "link": "https://github.com/supermerill/SuperSlicer/releases/tag/2.5.59.13",
+      "date": "2026-09-05",
+      "rank": 6
     },
     {
       "key": "manufacturer-bambu-lab-yun-goo-the-man-behind-the-viral-helixcore-spinner",
@@ -117,14 +102,14 @@
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "Professionally, he designs molds for stamping parts produced in millions. He became famous for a toy printed one at a time.",
-      "score": 69.6,
+      "score": 65.2,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Bambu Lab · published 2026-08-20 · 14d ago",
+      "metric": "Bambu Lab · published 2026-08-20 · 15d ago",
       "link": "https://blog.bambulab.com/yun-goo-the-man-behind-the-viral-helixcore-spinner/",
-      "date": "2026-09-04",
-      "rank": 8
+      "date": "2026-09-05",
+      "rank": 7
     },
     {
       "key": "manufacturer-prusa-research-prusa-core-one-gen-2-indx-shipping-has-started-complete-prin",
@@ -132,13 +117,28 @@
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "A lot is happening with INDX this week. We’ve started shipping the first batch of INDX conversion kits. And starting today, you can order a complete Prusa CORE One+ (Gen 2) with Bondtech INDX, either…",
-      "score": 69.6,
+      "score": 65.2,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Prusa Research · published 2026-08-20 · 14d ago",
+      "metric": "Prusa Research · published 2026-08-20 · 15d ago",
       "link": "https://blog.prusa3d.com/prusa-core-one-gen-2-indx-shipping-has-started-complete-printers-open-for-orders_137623/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
+      "rank": 8
+    },
+    {
+      "key": "github-orcaslicer-v2.4.2",
+      "topic": "OrcaSlicer/OrcaSlicer v2.4.2: OrcaSlicer v2.4.2 Official Release",
+      "source": "github",
+      "category": "Slicer",
+      "detail": "# What's Changed\r\n\r\nThis is the OrcaSlicer V2.4.2 release — a maintenance update on top of 2.4.1, focused on making profiles, cloud sync, and printer connectivity more dependable. Upgrading from an ol…",
+      "score": 61.9,
+      "spike": 0.99,
+      "basis": "spike",
+      "engagement": 15589,
+      "metric": "15589 stars · 2679 open issues/PRs · v2.4.2 · +11.0 stars/day",
+      "link": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.4.2",
+      "date": "2026-09-05",
       "rank": 9
     },
     {
@@ -147,28 +147,28 @@
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "Provision Raspberry Pi Compute Module 5 at scale with the Raspberry Pi Compute Module 5 Programming Jig, on sale now. The post Introducing the Raspberry Pi Compute Module 5 Programming Jig appeared fi…",
-      "score": 60.9,
+      "score": 56.5,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Raspberry Pi · published 2026-08-19 · 16d ago",
+      "metric": "Raspberry Pi · published 2026-08-19 · 17d ago",
       "link": "https://www.raspberrypi.com/news/introducing-the-raspberry-pi-compute-module-5-programming-jig/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 10
     },
     {
-      "key": "github-orcaslicer-v2.4.2",
-      "topic": "OrcaSlicer/OrcaSlicer v2.4.2: OrcaSlicer v2.4.2 Official Release",
+      "key": "github-prusaslicer-version-2.9.6",
+      "topic": "prusa3d/PrusaSlicer version_2.9.6: PrusaSlicer 2.9.6",
       "source": "github",
       "category": "Slicer",
-      "detail": "# What's Changed\r\n\r\nThis is the OrcaSlicer V2.4.2 release — a maintenance update on top of 2.4.1, focused on making profiles, cloud sync, and printer connectivity more dependable. Upgrading from an ol…",
-      "score": 57.2,
-      "spike": 0.6,
+      "detail": "# ![PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/raw/master/resources/icons/PrusaSlicer_128px.png) \r\n\r\nThis is final release of PrusaSlicer 2.9.6, introducing ColorMix feature. Please, read cha…",
+      "score": 51.1,
+      "spike": 0.09,
       "basis": "spike",
-      "engagement": 15578,
-      "metric": "15578 stars · 2666 open issues/PRs · v2.4.2 · +10.0 stars/day",
-      "link": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.4.2",
-      "date": "2026-09-04",
+      "engagement": 9300,
+      "metric": "9300 stars · 5675 open issues/PRs · version_2.9.6 · +3.0 stars/day",
+      "link": "https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.9.6",
+      "date": "2026-09-05",
       "rank": 11
     },
     {
@@ -177,29 +177,14 @@
       "source": "github",
       "category": "Slicer",
       "detail": "Bambu Studio 2.8.2.61 is a minor optimization update based on the previous version. It fixes several known issues and improves the experience of certain features.\r\n\r\nYou can download the Flathub versi…",
-      "score": 56.7,
-      "spike": 0.56,
+      "score": 50.4,
+      "spike": 0.03,
       "basis": "spike",
-      "engagement": 4977,
-      "metric": "4977 stars · 7679 open issues/PRs · v02.08.02.61 · +5.0 stars/day",
+      "engagement": 4981,
+      "metric": "4981 stars · 7684 open issues/PRs · v02.08.02.61 · +4.0 stars/day",
       "link": "https://github.com/bambulab/BambuStudio/releases/tag/v02.08.02.61",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 12
-    },
-    {
-      "key": "github-superslicer-2.5.59.13",
-      "topic": "supermerill/SuperSlicer 2.5.59.13: 2.5.59.12-bis edition",
-      "source": "github",
-      "category": "Slicer",
-      "detail": "A batch of little fixes, the most important one is about fixing seams.\r\n\r\n## bugfixes\r\n * fix wipe tower first layer speeed error.\r\n * fix synch problem for status reporting.\r\n * Trigger change in pro…",
-      "score": 52.7,
-      "spike": 0.23,
-      "basis": "spike",
-      "engagement": 4315,
-      "metric": "4315 stars · 1934 open issues/PRs · 2.5.59.13 · +0.0 stars/day",
-      "link": "https://github.com/supermerill/SuperSlicer/releases/tag/2.5.59.13",
-      "date": "2026-09-04",
-      "rank": 13
     },
     {
       "key": "github-v-core-3-1.0.4",
@@ -213,23 +198,23 @@
       "engagement": 355,
       "metric": "355 stars · 29 open issues/PRs · 1.0.4 · +0.0 stars/day",
       "link": "https://github.com/Rat-Rig/V-core-3/releases/tag/1.0.4",
-      "date": "2026-09-04",
-      "rank": 14
+      "date": "2026-09-05",
+      "rank": 13
     },
     {
-      "key": "github-voron-2-v2.4r2",
-      "topic": "VoronDesign/Voron-2 V2.4r2: VORON V2.4r2",
+      "key": "github-reprapfirmware-3.6.3",
+      "topic": "Duet3D/RepRapFirmware 3.6.3: Release 3.6.3",
       "source": "github",
-      "category": "Printer Design",
-      "detail": "### Release Notes\r\n\r\nThis release contains QoL updates and improvements to the official release of the VORON2.4 3d printer.\r\nFor more detailed information about V2.4 itself, please refer to the offici…",
-      "score": 45.5,
-      "spike": -0.38,
+      "category": "Firmware",
+      "detail": "This release fixes bugs in the previous 3.6.x firmwares. See the change list at https://github.com/Duet3D/RepRapFirmware/wiki/Changelog-RRF-3.x#reprapfirmware-363.\r\n\r\nAlso included in this release are…",
+      "score": 45.3,
+      "spike": -0.39,
       "basis": "spike",
-      "engagement": 4523,
-      "metric": "4523 stars · 36 open issues/PRs · V2.4r2 · +1.0 stars/day",
-      "link": "https://github.com/VoronDesign/Voron-2/releases/tag/V2.4r2",
-      "date": "2026-09-04",
-      "rank": 15
+      "engagement": 1048,
+      "metric": "1048 stars · 225 open issues/PRs · 3.6.3 · +0.0 stars/day",
+      "link": "https://github.com/Duet3D/RepRapFirmware/releases/tag/3.6.3",
+      "date": "2026-09-05",
+      "rank": 14
     },
     {
       "key": "github-cura-5.13.0",
@@ -237,13 +222,28 @@
       "source": "github",
       "category": "Slicer",
       "detail": "<H2>New features and improvements:</H2>\r\n<img width=\"1280\" height=\"720\" alt=\"0\" src=\"https://github.com/user-attachments/assets/52305653-4fab-4ea5-85e0-ea960096d923\" />\r\n\r\n- Added the new UltiMaker Fa…",
-      "score": 41.0,
-      "spike": -0.75,
+      "score": 41.5,
+      "spike": -0.71,
       "basis": "spike",
       "engagement": 7029,
       "metric": "7029 stars · 3530 open issues/PRs · 5.13.0 · +0.0 stars/day",
       "link": "https://github.com/Ultimaker/Cura/releases/tag/5.13.0",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
+      "rank": 15
+    },
+    {
+      "key": "github-voron-2-v2.4r2",
+      "topic": "VoronDesign/Voron-2 V2.4r2: VORON V2.4r2",
+      "source": "github",
+      "category": "Printer Design",
+      "detail": "### Release Notes\r\n\r\nThis release contains QoL updates and improvements to the official release of the VORON2.4 3d printer.\r\nFor more detailed information about V2.4 itself, please refer to the offici…",
+      "score": 37.9,
+      "spike": -1.01,
+      "basis": "spike",
+      "engagement": 4523,
+      "metric": "4523 stars · 36 open issues/PRs · V2.4r2 · +0.0 stars/day",
+      "link": "https://github.com/VoronDesign/Voron-2/releases/tag/V2.4r2",
+      "date": "2026-09-05",
       "rank": 16
     },
     {
@@ -252,13 +252,13 @@
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "This summer, we are refreshing the entire lineup of our 3D printers. The new Prusa XL+, CORE One+ (Gen 2), and CORE One L+ bring cleaner print starts, better-looking surfaces, easier operation, and im…",
-      "score": 34.8,
+      "score": 30.4,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "Prusa Research · published 2026-08-13 · 22d ago",
+      "metric": "Prusa Research · published 2026-08-13 · 23d ago",
       "link": "https://blog.prusa3d.com/better-prints-easier-use-prusa-xl-core-one-l-and-core-one-gen-2-our-big-product-update_137539/",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 17
     },
     {
@@ -267,233 +267,184 @@
       "source": "manufacturer",
       "category": "Hardware",
       "detail": "You've upgraded your HotEnd or nozzle. You've seen the data sheet. It says 60% more volumetric flow. So why isn't your Benchy printing in half the time? You're not alone in wondering this, it's one of…",
-      "score": 26.1,
+      "score": 21.7,
       "spike": null,
       "basis": "recency",
       "engagement": 0,
-      "metric": "E3D · published 2026-08-10 · 24d ago",
+      "metric": "E3D · published 2026-08-10 · 25d ago",
       "link": "https://e3d-online.com/blogs/news/why-high-flow-printing-doesnt-always-mean-high-speed-printing",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "rank": 18
     }
   ],
   "recent_threads": [
     {
-      "title": "Serial request",
-      "subreddit": "VORONDesign",
-      "author": "/u/mcfear",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w70eid/serial_request/",
+      "title": "I made this oreo storage box!",
+      "subreddit": "3Dprinting",
+      "author": "/u/NickzRx30",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7vv9b/i_made_this_oreo_storage_box/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Turned my 3D printer into a 2D plotter , draws signatures, writes text, and etches PCB (just print + etch, no CNC)",
+      "subreddit": "3Dprinting",
+      "author": "/u/Popular-Bluejay-1790",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7vbcv/turned_my_3d_printer_into_a_2d_plotter_draws/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Sculpted Adam Smasher's faceplate from scratch then airbrush painted!",
+      "subreddit": "3Dprinting",
+      "author": "/u/LegoCosplay",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7ukvi/sculpted_adam_smashers_faceplate_from_scratch/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Anycubic kobra 2 shooting out smoke and material",
+      "subreddit": "3Dprinting",
+      "author": "/u/TranslatorFront3972",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7t0yi/anycubic_kobra_2_shooting_out_smoke_and_material/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Custom lighting for a Star Trek prop",
+      "subreddit": "3Dprinting",
+      "author": "/u/0MEGAP0RK",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7swjs/custom_lighting_for_a_star_trek_prop/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "I want to build an open-source library of free shoe lasts and patterns — looking for advice?",
+      "subreddit": "3Dprinting",
+      "author": "/u/Automatic_Abroad1934",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7rwsz/i_want_to_build_an_opensource_library_of_free/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Designed and printed 5 Whiteboard, marker and eraser holders for my wife's classroom.",
+      "subreddit": "3Dprinting",
+      "author": "/u/Neathh",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7qfg8/designed_and_printed_5_whiteboard_marker_and/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "I designed an iPhone 17 case that doesn't seesaw when you lay it on its back.",
+      "subreddit": "3Dprinting",
+      "author": "/u/Sufficient-Pilot-750",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7ojpj/i_designed_an_iphone_17_case_that_doesnt_seesaw/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "\"Hell answers to me, for I am Doom\"",
+      "subreddit": "3Dprinting",
+      "author": "/u/fatcatssss",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7nf92/hell_answers_to_me_for_i_am_doom/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Boba Fett I printed and painted",
+      "subreddit": "3Dprinting",
+      "author": "/u/knappe1579",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7ndpp/boba_fett_i_printed_and_painted/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "When sanding FDM, do you ever go past like 320 or 400 grit? Recently I worked my way up to 2000 🫣🫣",
+      "subreddit": "3Dprinting",
+      "author": "/u/fearosis",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7mvtf/when_sanding_fdm_do_you_ever_go_past_like_320_or/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "At what point does printing end use parts stop being a compromise?",
+      "subreddit": "3Dprinting",
+      "author": "/u/theJacofalltrades",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7ma9n/at_what_point_does_printing_end_use_parts_stop/",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "First time modeling my own print!",
+      "subreddit": "3Dprinting",
+      "author": "/u/Still_Drawing8658",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7i3kp/first_time_modeling_my_own_print/",
       "date": "2026-09-04"
     },
     {
-      "title": "Light Fury! 🤍🐉",
+      "title": "Resin 3d print of Lou Ferrigno Hulk with modern proportions",
       "subreddit": "3Dprinting",
-      "author": "/u/oida-master",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6xn3h/light_fury/",
+      "author": "/u/Guilty-Assistance227",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7htyd/resin_3d_print_of_lou_ferrigno_hulk_with_modern/",
       "date": "2026-09-04"
     },
     {
-      "title": "I’m designing a 3D-printed Hasselblad-style waist-level finder for my Canon 650D",
+      "title": "Is it a toy??",
       "subreddit": "3Dprinting",
-      "author": "/u/NaomiGGOD",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6x4fw/im_designing_a_3dprinted_hasselbladstyle/",
+      "author": "/u/iandesignsshit",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7h5e4/is_it_a_toy/",
       "date": "2026-09-04"
     },
     {
-      "title": "My 3D printed Archaeopteryx in a 3D printed frame.",
+      "title": "We're trying to budget and I've always wanted a 3D printer. Wife couldn't say no to this garage sale find.",
       "subreddit": "3Dprinting",
-      "author": "/u/MasterMahanJr",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6whae/my_3d_printed_archaeopteryx_in_a_3d_printed_frame/",
+      "author": "/u/mkizys",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7f0nj/were_trying_to_budget_and_ive_always_wanted_a_3d/",
       "date": "2026-09-04"
     },
     {
-      "title": "I build the machines that print ceramics. Ask me anything",
+      "title": "I designed a modular, Art Nouveau style wall plate for US Toggle Switches. It uses a drop-in inlay system so the baroque ornament stays perfectly proportioned! What do you think?",
       "subreddit": "3Dprinting",
-      "author": "/u/ADT-3D-Printer",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6ulpy/i_build_the_machines_that_print_ceramics_ask_me/",
+      "author": "/u/Profil_Peter",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7eseh/i_designed_a_modular_art_nouveau_style_wall_plate/",
       "date": "2026-09-04"
     },
     {
-      "title": "Buildup on PLA parts due to water?",
+      "title": "My 3D printed lamp can finally help me while I’m working :)",
       "subreddit": "3Dprinting",
-      "author": "/u/Hobag101",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6uiac/buildup_on_pla_parts_due_to_water/",
+      "author": "/u/Ok_Stress3654",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7ddqb/my_3d_printed_lamp_can_finally_help_me_while_im/",
       "date": "2026-09-04"
     },
     {
-      "title": "Working on RC'ing my floating beverage holder stern",
+      "title": "Apparently, slowing tf down is a great way to get perfect top surfaces",
       "subreddit": "3Dprinting",
-      "author": "/u/FkinMustardTiger",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6twgv/working_on_rcing_my_floating_beverage_holder_stern/",
+      "author": "/u/issue9mm",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7c5x7/apparently_slowing_tf_down_is_a_great_way_to_get/",
       "date": "2026-09-04"
     },
     {
-      "title": "First time using a higher end filament - Fiberon PA6-CF20",
+      "title": "Is there a 3d printing technique strong enough for climbing holds?",
       "subreddit": "3Dprinting",
-      "author": "/u/Epjarvis",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6t1or/first_time_using_a_higher_end_filament_fiberon/",
+      "author": "/u/rocketmann11",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7c1ej/is_there_a_3d_printing_technique_strong_enough/",
       "date": "2026-09-04"
     },
     {
-      "title": "I’m ALMOST done with my 8yo son’s “driller gun!”",
+      "title": "magnetic steering grip i designed and printed for a standard xbox controller — 300+ prototypes to get the tolerances right",
       "subreddit": "3Dprinting",
-      "author": "/u/Ruby5000",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6q2if/im_almost_done_with_my_8yo_sons_driller_gun/",
+      "author": "/u/HeatRecent2922",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w7bo52/magnetic_steering_grip_i_designed_and_printed_for/",
       "date": "2026-09-04"
     },
     {
-      "title": "Programming 3d printing Robot",
+      "title": "Made at 200°C using virgin PLA pellets, silk-effect masterbatch, and 1% orange pigment powder",
       "subreddit": "3Dprinting",
-      "author": "/u/Personal-Wear1442",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6o0on/programming_3d_printing_robot/",
-      "date": "2026-09-03"
+      "author": "/u/Impossible_Oil5126",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w786i0/made_at_200c_using_virgin_pla_pellets_silkeffect/",
+      "date": "2026-09-04"
     },
     {
-      "title": "My first anime figure project",
+      "title": "Any ideas of how to make that ball joint harder to move?",
       "subreddit": "3Dprinting",
-      "author": "/u/SeabornVT",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6nejx/my_first_anime_figure_project/",
-      "date": "2026-09-03"
+      "author": "/u/nem1hail",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w76lct/any_ideas_of_how_to_make_that_ball_joint_harder/",
+      "date": "2026-09-04"
     },
     {
-      "title": "I made mini soda can opener keychains for long nails",
+      "title": "Dune Mechanical Book Nook",
       "subreddit": "3Dprinting",
-      "author": "/u/trinkiestudio",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6n5hb/i_made_mini_soda_can_opener_keychains_for_long/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "DJI mic 2 handle",
-      "subreddit": "3Dprinting",
-      "author": "/u/Zombait",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6lwty/dji_mic_2_handle/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Maltese Falcon made of dreams (and PLA)",
-      "subreddit": "3Dprinting",
-      "author": "/u/cchaudio",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6lpdl/maltese_falcon_made_of_dreams_and_pla/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "I made a 3D printed pencil pouch",
-      "subreddit": "3Dprinting",
-      "author": "/u/AcrobaticCook3929",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6ldrn/i_made_a_3d_printed_pencil_pouch/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Why do my coins bulge?",
-      "subreddit": "3Dprinting",
-      "author": "/u/Various_Purpose_9247",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6gx4w/why_do_my_coins_bulge/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Thermoformed happy ghosts - sweets container",
-      "subreddit": "3Dprinting",
-      "author": "/u/MixtureShoddy8172",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6gbej/thermoformed_happy_ghosts_sweets_container/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "F1 Helmet Replica",
-      "subreddit": "3Dprinting",
-      "author": "/u/Important-Wishbone16",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6fjkr/f1_helmet_replica/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Prop I edited for my Tommy Vercetti outfit for Halloween (for the bars)",
-      "subreddit": "3Dprinting",
-      "author": "/u/pryvisee",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6ermm/prop_i_edited_for_my_tommy_vercetti_outfit_for/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "You should know that the McMaster-Carr website has a ton of 3D models to download.",
-      "subreddit": "3Dprinting",
-      "author": "/u/ssmsti",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6e2je/you_should_know_that_the_mcmastercarr_website_has/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Darth Revan Helmet I've recently finished.",
-      "subreddit": "3Dprinting",
-      "author": "/u/123thealchemist",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6cys9/darth_revan_helmet_ive_recently_finished/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Coffee Grinder powered by kitchen aid",
-      "subreddit": "3Dprinting",
-      "author": "/u/Subject-Guess-6181",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6bufj/coffee_grinder_powered_by_kitchen_aid/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "This rainbow filament is amazing",
-      "subreddit": "3Dprinting",
-      "author": "/u/MsCatie",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w67tel/this_rainbow_filament_is_amazing/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "How much time do you spend messing with your Voron?",
-      "subreddit": "VORONDesign",
-      "author": "/u/Illustrious-Ad-1396",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w66nvj/how_much_time_do_you_spend_messing_with_your_voron/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "400 piece 3d printed roof lamp. No glue assembly",
-      "subreddit": "3Dprinting",
-      "author": "/u/Rigenat0r",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w63ngo/400_piece_3d_printed_roof_lamp_no_glue_assembly/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "I was Blessed by the Filament Gods",
-      "subreddit": "3Dprinting",
-      "author": "/u/Ghost7575",
-      "link": "https://www.reddit.com/r/3Dprinting/comments/1w6366m/i_was_blessed_by_the_filament_gods/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Voron 0.2 Display Neopixel Always On + Inconsistent Color",
-      "subreddit": "VORONDesign",
-      "author": "/u/PNWMan1024",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w62naz/voron_02_display_neopixel_always_on_inconsistent/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Liniarmotor on Voron printers?",
-      "subreddit": "VORONDesign",
-      "author": "/u/YesterdayPersonal549",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w61ju9/liniarmotor_on_voron_printers/",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Mouting electronics on top?",
-      "subreddit": "VORONDesign",
-      "author": "/u/tango_papa101",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w5ovma/mouting_electronics_on_top/",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "tuning advice",
-      "subreddit": "VORONDesign",
-      "author": "/u/alanjamesimpulse",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w4gmy0/tuning_advice/",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Making room for tool changer",
-      "subreddit": "VORONDesign",
-      "author": "/u/pnolan525",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w4bre6/making_room_for_tool_changer/",
-      "date": "2026-09-01"
+      "author": "/u/Tymek_BoardNerds",
+      "link": "https://www.reddit.com/r/3Dprinting/comments/1w75vgs/dune_mechanical_book_nook/",
+      "date": "2026-09-04"
     },
     {
       "title": "Purchase Advice Megathread - September 2026",
@@ -501,132 +452,6 @@
       "author": "/u/AutoModerator",
       "link": "https://www.reddit.com/r/3Dprinting/comments/1w438v9/purchase_advice_megathread_september_2026/",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Balls get jammed while circulating through cleaned out MGN9H carriage’s endcap. Is there a trick to assembling these black carriages that’s different from the red and green variety?",
-      "subreddit": "VORONDesign",
-      "author": "/u/VerilyJULES",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w3si6t/balls_get_jammed_while_circulating_through/",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Remote printing?",
-      "subreddit": "VORONDesign",
-      "author": "/u/zero0099",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w3piwc/remote_printing/",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Bi-Weekly No Stupid Questions Thread",
-      "subreddit": "VORONDesign",
-      "author": "/u/AutoModerator",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w3eob8/biweekly_no_stupid_questions_thread/",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Any Ideas to improve my custom tool head model for more regidity",
-      "subreddit": "VORONDesign",
-      "author": "/u/Full-Cucumber5068",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w30zjb/any_ideas_to_improve_my_custom_tool_head_model/",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Creality K2 Plus Build Plate",
-      "subreddit": "VORONDesign",
-      "author": "/u/Mean_Refrigerator581",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w2p1d4/creality_k2_plus_build_plate/",
-      "date": "2026-08-30"
-    },
-    {
-      "title": "Best way to wire the dual filament sensors on WWBMG + EBB36 Gen2?",
-      "subreddit": "VORONDesign",
-      "author": "/u/gasman16",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w22qtn/best_way_to_wire_the_dual_filament_sensors_on/",
-      "date": "2026-08-30"
-    },
-    {
-      "title": "Automated dual-color serial plate generator (Inlay method, no MMU required)",
-      "subreddit": "VORONDesign",
-      "author": "/u/im-AMS",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w1t828/automated_dualcolor_serial_plate_generator_inlay/",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "X-Carriage belt fixture broke - replace existing shortened Belts",
-      "subreddit": "VORONDesign",
-      "author": "/u/whilex",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w1few2/xcarriage_belt_fixture_broke_replace_existing/",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "Trident belt path",
-      "subreddit": "VORONDesign",
-      "author": "/u/pnolan525",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w199ex/trident_belt_path/",
-      "date": "2026-08-29"
-    },
-    {
-      "title": "Clarify X & Y axes MGN9 rail screw placement for 300mm 2.4 build, and generally…",
-      "subreddit": "VORONDesign",
-      "author": "/u/VerilyJULES",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w10qke/clarify_x_y_axes_mgn9_rail_screw_placement_for/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "When you swap nozzle on a single tool head to another size, do you recalibrate the offset or is there a known difference that will work every time?",
-      "subreddit": "VORONDesign",
-      "author": "/u/Gingerbwas",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w0xlct/when_you_swap_nozzle_on_a_single_tool_head_to/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Help me Decide ???? Micron or Salad Fork ????",
-      "subreddit": "VORONDesign",
-      "author": "/u/DefyingGravity75",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w0c4wu/help_me_decide_micron_or_salad_fork/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "LDO 2.4 Z probe problems",
-      "subreddit": "VORONDesign",
-      "author": "/u/IndependentFortune43",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1w0bnjq/ldo_24_z_probe_problems/",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "Broken cable chain wire",
-      "subreddit": "VORONDesign",
-      "author": "/u/That_Trapper_guy",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1vzdmap/broken_cable_chain_wire/",
-      "date": "2026-08-26"
-    },
-    {
-      "title": "Lots of parts but don’t know what to build",
-      "subreddit": "VORONDesign",
-      "author": "/u/VeterinarianRare3541",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1vyzjuf/lots_of_parts_but_dont_know_what_to_build/",
-      "date": "2026-08-26"
-    },
-    {
-      "title": "EBB 2209 USB losing communication",
-      "subreddit": "VORONDesign",
-      "author": "/u/Own-Caramel-3607",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1vyr0qh/ebb_2209_usb_losing_communication/",
-      "date": "2026-08-26"
-    },
-    {
-      "title": "Why are the Voron 2.4 xy-joints toothed idlers designed like this?",
-      "subreddit": "VORONDesign",
-      "author": "/u/VerilyJULES",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/1vykdjz/why_are_the_voron_24_xyjoints_toothed_idlers/",
-      "date": "2026-08-26"
-    },
-    {
-      "title": "New OFFICIAL Forums and Mods Interface!",
-      "subreddit": "VORONDesign",
-      "author": "/u/AchazianThug",
-      "link": "https://www.reddit.com/r/VORONDesign/comments/yycpyu/new_official_forums_and_mods_interface/",
-      "date": "2022-11-18"
     }
   ]
 }
