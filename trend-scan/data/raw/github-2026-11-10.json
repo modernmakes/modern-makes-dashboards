@@ -1,0 +1,209 @@
+{
+  "source": "github",
+  "fetched_at": "2026-11-10T14:57:31.737255+00:00",
+  "date": "2026-11-10",
+  "items": [
+    {
+      "id": "VoronDesign/Voron-2",
+      "repo": "VoronDesign/Voron-2",
+      "category": "Printer Design",
+      "name": "Voron-2",
+      "description": "Voron 2 CoreXY 3D Printer design",
+      "stars": 4607,
+      "forks": 1100,
+      "watchers": 332,
+      "open_issues_count": 38,
+      "pushed_at": "2026-10-22T01:39:12Z",
+      "url": "https://github.com/VoronDesign/Voron-2",
+      "latest_release": {
+        "tag": "V2.4r2",
+        "name": "VORON V2.4r2",
+        "body_excerpt": "### Release Notes\r\n\r\nThis release contains QoL updates and improvements to the official release of the VORON2.4 3d printer.\r\nFor more detailed information about V2.4 itself, please refer to the offici…",
+        "published_at": "2022-02-23T20:59:10Z",
+        "url": "https://github.com/VoronDesign/Voron-2/releases/tag/V2.4r2"
+      }
+    },
+    {
+      "id": "Rat-Rig/V-core-3",
+      "repo": "Rat-Rig/V-core-3",
+      "category": "Printer Design",
+      "name": "V-core-3",
+      "description": null,
+      "stars": 359,
+      "forks": 188,
+      "watchers": 32,
+      "open_issues_count": 29,
+      "pushed_at": "2023-08-23T08:27:42Z",
+      "url": "https://github.com/Rat-Rig/V-core-3",
+      "latest_release": {
+        "tag": "1.0.4",
+        "name": "1.0.4 - The Final V-Core 3.0 Release",
+        "body_excerpt": "1.0.4 marks the final release of the V-Core 3.0 design, all future commits / releases will be based upon the V-Core 3.1 design and beyond.\r\n\r\nAs previously mentioned in 1.0.3, all commits both since,…",
+        "published_at": "2022-07-01T08:51:43Z",
+        "url": "https://github.com/Rat-Rig/V-core-3/releases/tag/1.0.4"
+      }
+    },
+    {
+      "id": "Klipper3d/klipper",
+      "repo": "Klipper3d/klipper",
+      "category": "Firmware",
+      "name": "klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "stars": 12036,
+      "forks": 5964,
+      "watchers": 375,
+      "open_issues_count": 254,
+      "pushed_at": "2026-11-10T00:15:59Z",
+      "url": "https://github.com/Klipper3d/klipper",
+      "latest_release": null
+    },
+    {
+      "id": "KalicoCrew/kalico",
+      "repo": "KalicoCrew/kalico",
+      "category": "Firmware",
+      "name": "kalico",
+      "description": "Klipper, but Limitless",
+      "stars": 744,
+      "forks": 301,
+      "watchers": 19,
+      "open_issues_count": 60,
+      "pushed_at": "2026-11-10T00:48:15Z",
+      "url": "https://github.com/KalicoCrew/kalico",
+      "latest_release": null
+    },
+    {
+      "id": "Duet3D/RepRapFirmware",
+      "repo": "Duet3D/RepRapFirmware",
+      "category": "Firmware",
+      "name": "RepRapFirmware",
+      "description": "OO C++ RepRap Firmware",
+      "stars": 1058,
+      "forks": 591,
+      "watchers": 132,
+      "open_issues_count": 238,
+      "pushed_at": "2026-11-10T14:31:18Z",
+      "url": "https://github.com/Duet3D/RepRapFirmware",
+      "latest_release": {
+        "tag": "3.7.0",
+        "name": "Release 3.7.0",
+        "body_excerpt": "This is the first stable release of the 3.7 firmware line. Headline features are TLS support in standalone mode so that DWC can be served over HTTPS, experimental third-order motion control on the MB6…",
+        "published_at": "2026-10-08T16:05:38Z",
+        "url": "https://github.com/Duet3D/RepRapFirmware/releases/tag/3.7.0"
+      }
+    },
+    {
+      "id": "OrcaSlicer/OrcaSlicer",
+      "repo": "OrcaSlicer/OrcaSlicer",
+      "category": "Slicer",
+      "name": "OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "stars": 16412,
+      "forks": 3452,
+      "watchers": 159,
+      "open_issues_count": 2873,
+      "pushed_at": "2026-11-10T13:50:02Z",
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer",
+      "latest_release": {
+        "tag": "v2.5.0",
+        "name": "OrcaSlicer V2.5.0 Official Release",
+        "body_excerpt": "# What's Changed\r\n\r\n**OrcaSlicer 2.5.0 is here, the biggest update in OrcaSlicer's history**, built from nearly 1,300 pull requests by more than 180 contributors. You can now add features with **Pytho…",
+        "published_at": "2026-11-07T07:13:09Z",
+        "url": "https://github.com/OrcaSlicer/OrcaSlicer/releases/tag/v2.5.0"
+      }
+    },
+    {
+      "id": "prusa3d/PrusaSlicer",
+      "repo": "prusa3d/PrusaSlicer",
+      "category": "Slicer",
+      "name": "PrusaSlicer",
+      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+      "stars": 9473,
+      "forks": 2402,
+      "watchers": 252,
+      "open_issues_count": 938,
+      "pushed_at": "2026-11-07T00:35:45Z",
+      "url": "https://github.com/prusa3d/PrusaSlicer",
+      "latest_release": {
+        "tag": "version_2.9.7",
+        "name": "PrusaSlicer 2.9.7",
+        "body_excerpt": "# ![PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/raw/master/resources/icons/PrusaSlicer_128px.png) \r\n\r\nThis is final release of PrusaSlicer 2.9.7. This is a small maintenance release fixing sev…",
+        "published_at": "2026-11-02T16:34:50Z",
+        "url": "https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.9.7"
+      }
+    },
+    {
+      "id": "bambulab/BambuStudio",
+      "repo": "bambulab/BambuStudio",
+      "category": "Slicer",
+      "name": "BambuStudio",
+      "description": "PC Software for BambuLab and other 3D printers",
+      "stars": 5267,
+      "forks": 1147,
+      "watchers": 77,
+      "open_issues_count": 8302,
+      "pushed_at": "2026-11-10T03:52:05Z",
+      "url": "https://github.com/bambulab/BambuStudio",
+      "latest_release": {
+        "tag": "v02.09.01.70",
+        "name": "2.9.1 Public Release",
+        "body_excerpt": "> 🌐 [English](#english) | [中文](#中文)\r\n\r\n<a id=\"english\"></a>\r\n\r\n## English\r\n\r\nThis Bambu Studio release adds support for the Bambu Lab H3C, the new multi-nozzle printer in the Bambu Lab H series. It al…",
+        "published_at": "2026-11-03T12:42:17Z",
+        "url": "https://github.com/bambulab/BambuStudio/releases/tag/v02.09.01.70"
+      }
+    },
+    {
+      "id": "supermerill/SuperSlicer",
+      "repo": "supermerill/SuperSlicer",
+      "category": "Slicer",
+      "name": "SuperSlicer",
+      "description": "G-code generator for 3D printers (Prusa, Voron, Creality, etc.)",
+      "stars": 4320,
+      "forks": 540,
+      "watchers": 111,
+      "open_issues_count": 1944,
+      "pushed_at": "2026-10-11T11:58:17Z",
+      "url": "https://github.com/supermerill/SuperSlicer",
+      "latest_release": {
+        "tag": "2.5.59.13",
+        "name": "2.5.59.12-bis edition",
+        "body_excerpt": "A batch of little fixes, the most important one is about fixing seams.\r\n\r\n## bugfixes\r\n * fix wipe tower first layer speeed error.\r\n * fix synch problem for status reporting.\r\n * Trigger change in pro…",
+        "published_at": "2024-07-01T17:08:27Z",
+        "url": "https://github.com/supermerill/SuperSlicer/releases/tag/2.5.59.13"
+      }
+    },
+    {
+      "id": "Ultimaker/Cura",
+      "repo": "Ultimaker/Cura",
+      "category": "Slicer",
+      "name": "Cura",
+      "description": "3D printer / slicing GUI built on top of the Uranium framework",
+      "stars": 7077,
+      "forks": 2176,
+      "watchers": 212,
+      "open_issues_count": 3226,
+      "pushed_at": "2026-11-10T14:38:52Z",
+      "url": "https://github.com/Ultimaker/Cura",
+      "latest_release": {
+        "tag": "5.14.0",
+        "name": "UltiMaker Cura 5.14.0",
+        "body_excerpt": "<H2>New features and improvements:</H2>\r\n\r\n**Paint-on-Support** You can now define custom support areas by manually by painting regions to enforce, avoid, or auto-generate supports using an interactiv…",
+        "published_at": "2026-11-05T13:48:23Z",
+        "url": "https://github.com/Ultimaker/Cura/releases/tag/5.14.0"
+      }
+    },
+    {
+      "id": "beacon3d/beacon_klipper",
+      "repo": "beacon3d/beacon_klipper",
+      "category": "Hardware",
+      "name": "beacon_klipper",
+      "description": "Beacon Klipper Module",
+      "stars": 109,
+      "forks": 37,
+      "watchers": 18,
+      "open_issues_count": 3,
+      "pushed_at": "2026-11-05T22:21:15Z",
+      "url": "https://github.com/beacon3d/beacon_klipper",
+      "latest_release": null
+    }
+  ]
+}
