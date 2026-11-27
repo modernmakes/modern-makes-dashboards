@@ -1,0 +1,95 @@
+{
+  "source": "github",
+  "fetched_at": "2026-11-27T16:44:25.281996+00:00",
+  "date": "2026-11-27",
+  "items": [
+    {
+      "id": "VoronDesign/Voron-2",
+      "repo": "VoronDesign/Voron-2",
+      "category": "Printer Design",
+      "name": "Voron-2",
+      "description": "Voron 2 CoreXY 3D Printer design",
+      "stars": 4625,
+      "forks": 1096,
+      "watchers": 332,
+      "open_issues_count": 38,
+      "pushed_at": "2026-10-22T01:39:12Z",
+      "url": "https://github.com/VoronDesign/Voron-2",
+      "latest_release": {
+        "tag": "V2.4r2",
+        "name": "VORON V2.4r2",
+        "body_excerpt": "### Release Notes\r\n\r\nThis release contains QoL updates and improvements to the official release of the VORON2.4 3d printer.\r\nFor more detailed information about V2.4 itself, please refer to the offici…",
+        "published_at": "2022-02-23T20:59:10Z",
+        "url": "https://github.com/VoronDesign/Voron-2/releases/tag/V2.4r2"
+      }
+    },
+    {
+      "id": "Rat-Rig/V-core-3",
+      "repo": "Rat-Rig/V-core-3",
+      "category": "Printer Design",
+      "name": "V-core-3",
+      "description": null,
+      "stars": 360,
+      "forks": 186,
+      "watchers": 32,
+      "open_issues_count": 29,
+      "pushed_at": "2023-08-23T08:27:42Z",
+      "url": "https://github.com/Rat-Rig/V-core-3",
+      "latest_release": {
+        "tag": "1.0.4",
+        "name": "1.0.4 - The Final V-Core 3.0 Release",
+        "body_excerpt": "1.0.4 marks the final release of the V-Core 3.0 design, all future commits / releases will be based upon the V-Core 3.1 design and beyond.\r\n\r\nAs previously mentioned in 1.0.3, all commits both since,…",
+        "published_at": "2022-07-01T08:51:43Z",
+        "url": "https://github.com/Rat-Rig/V-core-3/releases/tag/1.0.4"
+      }
+    },
+    {
+      "id": "Klipper3d/klipper",
+      "repo": "Klipper3d/klipper",
+      "category": "Firmware",
+      "name": "klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "stars": 12085,
+      "forks": 5965,
+      "watchers": 375,
+      "open_issues_count": 266,
+      "pushed_at": "2026-11-25T17:09:00Z",
+      "url": "https://github.com/Klipper3d/klipper",
+      "latest_release": null
+    },
+    {
+      "id": "KalicoCrew/kalico",
+      "repo": "KalicoCrew/kalico",
+      "category": "Firmware",
+      "name": "kalico",
+      "description": "Klipper, but Limitless",
+      "stars": 750,
+      "forks": 309,
+      "watchers": 18,
+      "open_issues_count": 73,
+      "pushed_at": "2026-11-23T21:11:26Z",
+      "url": "https://github.com/KalicoCrew/kalico",
+      "latest_release": null
+    },
+    {
+      "id": "Duet3D/RepRapFirmware",
+      "repo": "Duet3D/RepRapFirmware",
+      "category": "Firmware",
+      "name": "RepRapFirmware",
+      "description": "OO C++ RepRap Firmware",
+      "stars": 1059,
+      "forks": 592,
+      "watchers": 129,
+      "open_issues_count": 242,
+      "pushed_at": "2026-11-27T12:40:06Z",
+      "url": "https://github.com/Duet3D/RepRapFirmware",
+      "latest_release": {
+        "tag": "3.7.0",
+        "name": "Release 3.7.0",
+        "body_excerpt": "This is the first stable release of the 3.7 firmware line. Headline features are TLS support in standalone mode so that DWC can be served over HTTPS, experimental third-order motion control on the MB6…",
+        "published_at": "2026-10-08T16:05:38Z",
+        "url": "https://github.com/Duet3D/RepRapFirmware/releases/tag/3.7.0"
+      }
+    }
+  ]
+}
